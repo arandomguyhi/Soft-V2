@@ -7,7 +7,7 @@ local dialogueEnd = {
 	{'Anytime.', '5end'}, --[[ pico ]]
 	{'Though... We should probably get a move on before-', '6end'}, --[[ pico ]]
 	{'Footsteps could be heard at the entrance of the alleyway, interrupting their conversation.', '7end'}, --[[ narrator ]]
-	{'...?', ''}, --[[ pico ]]
+	{'...?', nil}, --[[ pico ]]
 	{'!!!', 'shock'}, --[[ bf ]]
 }
 local portraitShitEnd = { --[[ confusing, right? ]]
@@ -64,6 +64,7 @@ function onTimerCompleted(t,l,ll)
 		setVar('isOnDialogue', false)
 		setVar('dialogueEnded', true)
 		stopSound('diaSongEnd')
+		openCustomSubstate('result_screen')
 	end
 end
 
@@ -88,8 +89,12 @@ function startDiaEnd()
 	reloadTextEnd()
 	runTimer('add text end', 0.04, string.len(textieEnd))
 
-	playSound(diaSoundsEnd..'starcrossed/'..dialogueEnd[curDialogueEnd][2], 1, 'lyric'..curDialogueEnd)
-	stopSound('lyricEnd'..curDialogueEnd-1)
+	if dialogueEnd[curDialogueEnd][2] == nil then -- idk why, but i cant use the "not" thing
+		--bzl
+	else
+		playSound(diaSoundsEnd..'starcrossed/'..dialogueEnd[curDialogueEnd][2], 1, 'lyric'..curDialogueEnd)
+		stopSound('lyricEnd'..curDialogueEnd-1)
+	end
 
 	-- PORTRAIT SHITTTT
 	local socoro = curDialogueEnd

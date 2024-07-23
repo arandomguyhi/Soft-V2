@@ -136,12 +136,6 @@ function onEndSong()
 end
 end
 
-function onUpdate()
-	if getVar('dialogueEnded') then
-		openCustomSubstate('result_screen')
-	end
-end
-
 function onCustomSubstateDestroy(name)
 	if name == 'result_screen' then
 		stopSound('softResult')
