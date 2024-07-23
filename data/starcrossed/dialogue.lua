@@ -124,6 +124,14 @@ function onCreatePost()
 	setTextAlignment('diaTxt', 'left')
 	addLuaText('diaTxt')
 
+	makeLuaText('pressEsc', 'Press BACK to skip', getProperty('pressEsc.width'), 10, screenHeight-30)
+	setTextFont('pressEsc', 'DK Inky Fingers.otf')
+	setTextSize('pressEsc', 16)
+	setTextAlignment('pressEsc', 'left')
+	addLuaText('pressEsc')
+	setProperty('pressEsc.alpha', 0.001) startTween('backe', 'pressEsc', {alpha = 1}, 1, {startDelay = 2.5})
+	startTween('backout', 'pressEsc', {alpha = 0.001}, 1, {startDelay = 15})
+
 	makeLuaSprite('trans', nil)
 	makeGraphic('trans', 1280, 720, '000000')
 	setObjectCamera('trans', 'hud')
@@ -156,20 +164,20 @@ end
 
 function onUpdate(el)
 	if getVar('dialogue1end') then return end
+
 	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.ENTER') then
 		curDialogue = curDialogue + 1
 		if curDialogue > table.maxn(dialogue) then
-			startTween('backtween', 'diaBackground', {alpha = 0.001}, 1, {})
-			startTween('boxtween', 'diaBox', {alpha = 0.001}, 1, {})
-			startTween('texttween', 'diaTxt', {alpha = 0.001}, 1, {})
-			startTween('portraittween', 'pico', {alpha = 0.001}, 1, {})
-
-			stopSound('lyric'..curDialogue)
-			runTimer('start song', 1.05)
+			endDialogue()
 		else
 			playSound(diaSounds..'advance')
 			startDia()
 		end
+	end
+
+	if getProperty('controls.BACK') then
+		curDialogue = #dialogue +1
+		endDialogue()
 	end
 end
 
@@ -212,6 +220,16 @@ end
 function reloadText()
 	textie = dialogue[curDialogue]
 	setTextString('diaTxt', '')
+end
+
+function endDialogue()
+	startTween('backtween', 'diaBackground', {alpha = 0.001}, 1, {})
+	startTween('boxtween', 'diaBox', {alpha = 0.001}, 1, {})
+	startTween('texttween', 'diaTxt', {alpha = 0.001}, 1, {})
+	for i = 1,#dialogue do startTween('portraittween'..i, portraitShit[i][1], {alpha = 0.001}, 1, {}) end
+
+	stopSound('lyric'..curDialogue)
+	runTimer('start song', 1.05)
 end
 
 function onSoundFinished(tag)

@@ -42,6 +42,7 @@ function onEndSong()
 		startTween('backTweenEnd', 'diaBackground', {alpha = 1}, 0.001, {})
 		startTween('boxTweenEnd', 'diaBox', {alpha = 1}, 0.001, {})
 		startTween('txtTweenEnd', 'diaTxt', {alpha = 1}, 0.001, {})
+		startTween('backe', 'pressEsc', {alpha = 1}, 1, {startDelay = 2.5}) startTween('backout', 'pressEsc', {alpha = 0.001}, 1, {startDelay = 15})
 
 		runTimer('start dia end', 0.003)
 		
@@ -72,16 +73,16 @@ function onUpdate(el)
 	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.ENTER') and getVar('isOnDialogue') then
 		curDialogueEnd = curDialogueEnd + 1
 		if curDialogueEnd > #dialogueEnd then
-			startTween('backtweenEnd', 'diaBackground', {alpha = 0.001}, 1, {})
-			startTween('boxtweenEnd', 'diaBox', {alpha = 0.001}, 1, {})
-			startTween('texttweenEnd', 'diaTxt', {alpha = 0.001}, 1, {})
-			startTween('portraittweenEnd', 'bf', {alpha = 0.001}, 1, {})
-
-			runTimer('end dialogue', 1.05)
+			endDialogueEnd()
 		else
 			playSound(diaSoundsEnd..'advance')
 			startDiaEnd()
 		end
+	end
+
+	if getProperty('controls.BACK') and getVar('isOnDialogue') then
+		curDialogueEnd = #dialogueEnd +1
+		endDialogueEnd()
 	end
 end
 
@@ -90,9 +91,9 @@ function startDiaEnd()
 	runTimer('add text end', 0.04, string.len(textieEnd))
 
 	if dialogueEnd[curDialogueEnd][2] == nil then -- idk why, but i cant use the "not" thing
-		--bzl
+		stopSound('lyricEnd'..curDialogueEnd-1)
 	else
-		playSound(diaSoundsEnd..'starcrossed/'..dialogueEnd[curDialogueEnd][2], 1, 'lyric'..curDialogueEnd)
+		playSound(diaSoundsEnd..'starcrossed/'..dialogueEnd[curDialogueEnd][2], 1, 'lyricEnd'..curDialogueEnd)
 		stopSound('lyricEnd'..curDialogueEnd-1)
 	end
 
@@ -115,6 +116,16 @@ end
 function reloadTextEnd()
 	textieEnd = dialogueEnd[curDialogueEnd][1]
 	setTextString('diaTxt', '')
+end
+
+function endDialogueEnd()
+	startTween('backtween', 'diaBackground', {alpha = 0.001}, 1, {})
+	startTween('boxtween', 'diaBox', {alpha = 0.001}, 1, {})
+	startTween('texttween', 'diaTxt', {alpha = 0.001}, 1, {})
+	for i = 1,#dialogueEnd do startTween('portraittween'..i, portraitShitEnd[i][1], {alpha = 0.001}, 1, {}) end
+
+	stopSound('lyricEnd'..curDialogueEnd)
+	runTimer('start song', 1.05)
 end
 
 function onSoundFinished(tag)

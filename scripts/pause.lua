@@ -3,10 +3,16 @@ local menuList = {'RESUME', 'RESTART', 'OPTIONS', 'EXIT'}
 local isPenHere = false
 
 luaDebugMode = true
+
+local imagesToLoad = {'stripes', 'notebook', 'pencil'}
 function onCreate()
 	addHaxeLibrary('CustomSubstate', 'psychlua')
 	addHaxeLibrary('OptionsState', 'options')
 	addHaxeLibrary('MusicBeatState', 'backend')
+
+	for i = 1,3 do precacheImage('menus/pause/'..imagesToLoad[i]) end
+	--precacheImage('pauseArt/'..getVar('pauseArtChar'))
+	precacheSound('soft-pause')
 end
 
 function onPause()
