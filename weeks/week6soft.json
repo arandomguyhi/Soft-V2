@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Begrudge", "senpai", [119, 174, 217]],
+		["Every Rose", "senpai", [119, 174, 217]],
+		["Spikes", "senpai", [119, 174, 217]]
+	],
+
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "picnic",
+	//"weekColor": [250, 114, 130],
+
+	"storyName": "A Date with Danger",
+	"weekBefore": "week5",
+	"weekName": "Week 6",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

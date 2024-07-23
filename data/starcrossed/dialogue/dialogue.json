@@ -1,0 +1,210 @@
+{
+    "initialBG": "intro",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "traffic", 0.8]
+            ],
+            "portrait": "megablade",
+            "expression": "look",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "The city of stars..."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "A place where the rich live lavishly..."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "closedtalk",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "And the not-so-fortunate struggle to survive day by day."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "talk",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "Two boys who have been on the run for two weeks are spotted dashing into an alleyway, as the sun begins to set over the skyline."
+        },
+        {
+            "events": [
+                ["Slide In"],
+                ["Silhouette"]
+            ],
+            "portrait": "pico",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "Pico, a high school dropout and notorious graffiti artist..."
+        },
+        {
+            "events": [
+                ["Slide In"],
+                ["Silhouette"]
+            ],
+            "portrait": "bf",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "6",
+            "text": "And Benjamin, a blue-haired boy with aspirations of becoming an artist..."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "look",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "Both come to a halt, catching their breath."
+        },
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "on-the-run", 0.7],
+                ["Change BG", "alleyway"]
+            ],
+            "portrait": "pico",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "8",
+            "text": "That was close."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "Do you think he saw us...?"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "10",
+            "text": "I don't think so."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "11",
+            "text": "This is the third time this week we’ve almost been caught."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervous",
+            "speakingRight": true,
+            "voiceline": "12",
+            "text": "I know..."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "13",
+            "text": "With them plastering your face all over town, inevitably, someone’s eventually gonna catch onto us."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervous",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "14",
+            "text": "We both know the way they settle things, Ben. We need to be ready for it."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "15",
+            "text": "I told you running away wasn’t a good idea!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "16",
+            "text": "I can’t do this. What if-"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "17",
+            "text": "Ben."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "18",
+            "text": "When he catches us, he’ll-"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "smug",
+            "speakingRight": false,
+            "voiceline": "19",
+            "text": "Hey. It’s going to be okay."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "smugsmile",
+            "speakingRight": false,
+            "voiceline": "20",
+            "text": "I’ve got your back every step of the way."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "21",
+            "text": "What do we do...?"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "22",
+            "text": "How about we do a practice round?"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "23",
+            "text": "Repeat after me."
+        }
+    ]
+}

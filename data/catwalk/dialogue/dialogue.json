@@ -1,0 +1,106 @@
+{
+    "initialBG": "limo",
+    "dialogue": [
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "fashionova", 0.6]
+			],
+            "portrait": "mother",
+            "expression": "stern",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "Sweetheart, you see how ridiculous all this is, don’t you?"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "2",
+            "text": "... What do you mean?"
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "Well, it’s obvious!"
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "disgust",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "My perfect little boy has had his mind tainted by that... pest, filling your head with all kinds of shady thoughts."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "5",
+            "text": "You fucking whore."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "worry",
+            "speakingRight": true,
+            "voiceline": "6",
+            "text": "All I’ve ever done is care for him."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "7",
+            "text": "That’s more than you or that monster you call a husband has ever done."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "uncomfortable",
+            "speakingRight": true,
+            "voiceline": "8",
+            "text": "Pico!-"
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "snarl",
+            "speakingRight": false,
+            "voiceline": "9",
+            "text": "Quiet! How dare you accuse my family of such things!"
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "10",
+            "text": "We love you so much Benjamin, why don’t you just come with me-"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "11",
+            "text": "I’m not going with you."
+        },
+        {
+            "events": [
+				["Play Music", "cars", 0.8]
+			],
+            "portrait": "mother",
+            "expression": "stern",
+            "speakingRight": false,
+            "voiceline": "12",
+            "text": "Hmph. Fine, be that way."
+        }
+    ]
+}

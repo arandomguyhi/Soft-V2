@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Stars Aligned", "pico", [66, 137, 72, 136, 183, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "bench",
+	//"weekColor": [183, 83, 219],
+
+	"storyName": "Epilogue",
+	"weekBefore": "week6",
+	"weekName": "Epilogue",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,281 @@
+{
+    "initialBG": "picnic",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "nature", 0.8]
+            ],
+            "portrait": "sven",
+            "expression": "shadow",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf-picnic",
+            "expression": "confused",
+            "speakingRight": true,
+            "voiceline": "1",
+            "text": "Wow, uh, t-that was... fun?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "2",
+            "text": "So... back to what we were doing?"
+        },
+        {
+            "events": [["Play Music", "confrontation", 0.5]],
+            "portrait": "sven",
+            "expression": "shadow",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "No."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "shadowangry",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "No I'm not done."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "furious",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "I refuse to lose to an ugly worm like you!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "grace-picnic",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "6",
+            "text": "Sven! Why are you acting like this all of a sudden...?"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "angry",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "I can’t fucking stand that he’s here acting like everything is fine, like he did nothing wrong!"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "furious",
+            "speakingRight": false,
+            "voiceline": "8",
+            "text": "He knows what he did!"
+        },
+        {
+            "events": [
+				["Change BG", "knife-flick"],
+				["Hide Box"]
+			]
+        },
+        {
+            "events": [
+                ["Slide In"],
+                ["Change BG", "picnic"]
+            ],
+            "portrait": "pico-picnic",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "I’d put away that knife if I were you, pal, or else."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "bored",
+            "speakingRight": false,
+            "voiceline": "10",
+            "text": "Pfft, or else WHAT, huh? "
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "11",
+            "text": "You’re gonna shoot me? I heard you’re pretty good at that."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "12",
+            "text": "Are you willing to find out, asshole?!"
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": "13",
+            "text": "Can we all calm down, please?! Sven, what’s going on?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "14",
+            "text": "Yeah, what did I ever do to you?"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "15",
+            "text": "You haven’t done anything to ME."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "angry",
+            "speakingRight": false,
+            "voiceline": "16",
+            "text": "I’ve heard plenty about you two. You act like nothing ever happened..."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "angry",
+            "speakingRight": false,
+            "voiceline": "17",
+            "text": "Like you never took her happiness away."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "terrified",
+            "speakingRight": true,
+            "voiceline": "shock",
+            "text": "!"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "determined",
+            "speakingRight": false,
+            "voiceline": "18",
+            "text": "I am going to win this. For her."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "neutraldown",
+            "speakingRight": false,
+            "voiceline": "19",
+            "text": "To make sure she’s truly happy..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "20",
+            "text": "Truly happy...? Wait- You have the wrong idea!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "21",
+            "text": "If you just put away the knife so we can expl-"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "22",
+            "text": "What's there left to explain? I’ve heard it all from her."
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": "23",
+            "text": "Sven-, I never meant it like that..."
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "24",
+            "text": "They never meant any harm... Really..."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "25",
+            "text": "So?"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "26",
+            "text": "Ok this is enough, I’m putting a stop to this-"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "27",
+            "text": "Pico. I can handle this myself."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "28",
+            "text": "I really appreciate you always coming in and trying to defend me but..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "29",
+            "text": "I’m my own person. I can fight my own battles."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "worry",
+            "speakingRight": true,
+            "voiceline": "30",
+            "text": "...I know. I’m right behind you if you need me, Softie."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "smirk",
+            "speakingRight": false,
+            "voiceline": "31",
+            "text": "Heheheh... Let’s finish this!"
+        }
+    ]
+}

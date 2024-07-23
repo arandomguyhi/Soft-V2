@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				106666.666666667,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.2"
+					]
+				]
+			],
+			[
+				109000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109333.333333333,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.95"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+    "initialBG": "alleyway",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "sporting-gesture", 0.8]
+            ],
+            "portrait": "father",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "You sound just like your old man!"
+        },
+        {
+            "events": [["Play Music", "traffic", 0.8]],
+            "portrait": "father",
+            "expression": "annoyed",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "...It’s a real shame that you’re putting all that talent to waste."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "uncomfortable",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "3",
+            "text": "Hey, don’t listen to him."
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "confused",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "Your mother and I built this perfect life for you so you could become a star."
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "happylook",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "And you want to be what? An artist?"
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "6",
+            "text": "Now, doesn’t that just sound ridiculous?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "7",
+            "text": "Please just listen to me for once-"
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "annoyed",
+            "speakingRight": false,
+            "voiceline": "8",
+            "text": "Speak up son, I can’t hear you."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "I-It’s my life!"
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "annoyed",
+            "speakingRight": false,
+            "voiceline": "10",
+            "text": "Oh, is it?"
+        }
+    ]
+}

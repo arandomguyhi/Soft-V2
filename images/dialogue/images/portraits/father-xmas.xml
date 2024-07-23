@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="father-xmas.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="smile00" x="648.9" y="0.18" width="319.68" height="409.5" />
+  <SubTexture name="happy00" x="0.18" y="406.98" width="319.68" height="409.5" />
+  <SubTexture name="happylook00" x="320.22" y="406.98" width="319.68" height="409.5" />
+  <SubTexture name="confused00" x="640.26" y="410.04" width="319.68" height="409.5" />
+  <SubTexture name="angrysmile00" x="0.18" y="816.84" width="319.68" height="409.5" />
+  <SubTexture name="pissed00" x="320.22" y="816.84" width="319.68" height="409.5" />
+  <SubTexture name="annoyed00" x="0.18" y="0.18" width="324" height="406.44" />
+  <SubTexture name="grin00" x="324.54" y="0.18" width="324" height="406.44" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="pico-picnic.png" width="956" height="977">
+	<SubTexture name="annoyed" x="0.22" y="0.22" width="252.78" height="350.68" frameX="-7.7" frameY="-3.3" frameWidth="350.9" frameHeight="354.86"/>
+	<SubTexture name="bored" x="0.22" y="351.56" width="252.78" height="350.68" frameX="-7.7" frameY="-3.3" frameWidth="350.9" frameHeight="354.86"/>
+	<SubTexture name="flustered" x="253.66" y="0.22" width="252.78" height="350.68" frameX="-7.7" frameY="-3.3" frameWidth="350.9" frameHeight="354.86"/>
+	<SubTexture name="heart" x="507.1" y="0.22" width="350.68" height="252.78" rotated="true" frameX="-7.7" frameY="-3.3" frameWidth="350.9" frameHeight="354.86"/>
+	<SubTexture name="neutral" x="507.1" y="253.66" width="252.78" height="350.68" frameX="-7.7" frameY="-3.3" frameWidth="350.9" frameHeight="354.86"/>
+	<SubTexture name="questioning" x="0.22" y="702.9" width="350.68" height="273.9" rotated="true" frameX="-7.7" frameY="-3.3" frameWidth="350.9" frameHeight="354.86"/>
+	<SubTexture name="shock" x="253.66" y="351.56" width="227.7" height="343.42" frameX="-56.76" frameY="-3.3" frameWidth="350.9" frameHeight="354.86"/>
+	<SubTexture name="smug" x="351.56" y="695.64" width="350.68" height="273.9" rotated="true" frameX="-7.7" frameY="-3.3" frameWidth="350.9" frameHeight="354.86"/>
+	<SubTexture name="worry" x="702.9" y="605" width="252.78" height="350.68" frameX="-7.7" frameY="-3.3" frameWidth="350.9" frameHeight="354.86"/>
+</TextureAtlas>

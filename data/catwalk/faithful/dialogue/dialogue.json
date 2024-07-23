@@ -1,0 +1,187 @@
+{
+    "initialBG": "snowy-town",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "christmas", 0.8]
+            ],
+            "portrait": "megablade",
+            "expression": "look",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "Despite being battered and bruised, Pico and Benjamin manage to escape Mairest."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "closedtalk",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "While healing, a treacherous month flies by, which together they spend resting and tending to wounds."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "Soon after, the boys felt well and brave enough to face the streets once again."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "look",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "Signs of the holiday season litter the scene, with snowflakes dancing in the air, golden bells ringing, and children laughing."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "talk",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "A crowd of strangers whisper to one another in excitement, waiting beside a sign that reads: “Annual Holiday Fairest Meet and Greet!”"
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "closedsmile",
+            "speakingRight": false,
+            "voiceline": "6",
+            "text": "The two boys enjoy the winter season with smiles, distracted by one another’s company."
+        },
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "merrymaking", 0.6]
+            ],
+            "portrait": "pico-xmas",
+            "expression": "bored",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "I can't believe you're actually making me wear this."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf-xmas",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "8",
+            "text": "Why? You look adorable."
+        },
+        {
+            "events": [],
+            "portrait": "pico-xmas",
+            "expression": "bored",
+            "speakingRight": false,
+            "voiceline": "9",
+            "text": "I know, that's the problem."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "10",
+            "text": "Come on Toughie, this is our first time out and about in a month. At least try to enjoy it-"
+        },
+        {
+            "events": [],
+            "portrait": null,
+            "expression": null,
+            "speakingRight": true,
+            "voiceline": "there",
+            "text": "THERE THEY ARE!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "scared",
+            "speakingRight": true,
+            "voiceline": "12",
+            "text": "Huh?!"
+        },
+        {
+            "events": [],
+            "portrait": "pico-xmas",
+            "expression": "questioning",
+            "speakingRight": true,
+            "voiceline": "13",
+            "text": "A crowd...?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "8",
+            "speakingRight": true,
+            "voiceline": "14",
+            "text": "...Shit, what day is it?"
+        },
+        {
+            "events": [],
+            "portrait": "pico-xmas",
+            "expression": "questioning",
+            "speakingRight": true,
+            "voiceline": "15",
+            "text": "The 17th... why?"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "mother-xmas",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "16",
+            "text": "OUR SON!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "what",
+            "speakingRight": true,
+            "voiceline": "17",
+            "text": "...that’s why."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "father-xmas",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "18",
+            "text": "Just in time for the holidays!"
+        },
+        {
+            "events": [],
+            "portrait": "mother-xmas",
+            "expression": "condescending",
+            "speakingRight": false,
+            "voiceline": "19",
+            "text": "We were beginning to fear the worst..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "what",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "father-xmas",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "20",
+            "text": "How about we celebrate, sport?"
+        },
+        {
+            "events": [],
+            "portrait": "mother-xmas",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "21",
+            "text": "Aaaaaaand finally get you home!"
+        }
+    ]
+}

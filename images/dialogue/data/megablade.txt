@@ -1,0 +1,7 @@
+0,50
+closedsmile,closedsmile,0,0
+closedtalk,closedtalk,0,0
+look,look,0,0
+smile,smile,0,0
+talk,talk,0,0
+

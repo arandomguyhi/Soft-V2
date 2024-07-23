@@ -1,0 +1,11 @@
+0,32
+smug,smug0,0,0
+heart,heart,0,0
+smugsmile,smugsmile,0,0
+neutral,neutral,0,0
+worry,worry0,0,0
+questioning,questioning,0,0
+annoyed,annoyed,0,0
+bored,bored,0,0
+flustered,flustered,0,0
+yougotit,yougotit,80,0

@@ -1,0 +1,12 @@
+{
+	"song":
+	{
+		"name": "It's Complicated",
+		"artist": "StarriBlu, HighPoweredKeyz",
+		"pause": "grace"
+	},
+	"control":
+	{
+		"isComplicated": true
+	}
+}

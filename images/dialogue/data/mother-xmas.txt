@@ -1,0 +1,6 @@
+20,80
+shock,shock,0,0
+shout,shout,0,0
+condescending,condescending,0,0
+grin,grin0,0,0
+grinsweat,grinsweat,0,0

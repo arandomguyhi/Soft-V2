@@ -1,0 +1,166 @@
+{
+    "initialBG": "evil-room",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "spooky", 0.6]
+            ],
+            "portrait": "megablade",
+            "expression": "closedtalk",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "Before he knew it, Benjamin was suddenly alone."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "closedtalk",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "The sounds of distant thunder was the only thing he noticed at first."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "talk",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "And then... He saw it."
+        },
+        {
+            "events": [
+                ["Silhouette"],
+                ["Slide In"]
+            ],
+            "portrait": "monster",
+            "expression": "normal",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "A tall slender beast stood where the two kids once were."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "talk",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "He looked... so familiar."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "closedtalk",
+            "speakingRight": false,
+            "voiceline": "6",
+            "text": "Probably because his appearances were such a common occurrence..."
+        },
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "recurring-nightmare", 0.7]
+            ],
+            "portrait": "bf",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": "7",
+            "text": "Wha...?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "uncomfortable",
+            "speakingRight": true,
+            "voiceline": "8",
+            "text": "Oh no... Not you again..."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "monster",
+            "expression": "normal",
+            "speakingRight": false,
+            "voiceline": "monster1",
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "10",
+            "text": "Why are you here...?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "11",
+            "text": "Why now?"
+        },
+        {
+            "events": [],
+            "portrait": "monster",
+            "expression": "normal",
+            "speakingRight": false,
+            "voiceline": "monster5",
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "angrycry",
+            "speakingRight": true,
+            "voiceline": "13",
+            "text": "What do you even want!?"
+        },
+        {
+            "events": [],
+            "portrait": "monster",
+            "expression": "normal",
+            "speakingRight": false,
+            "voiceline": "monster2",
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervous",
+            "speakingRight": true,
+            "voiceline": "15",
+            "text": "I... don’t know why I bother asking anymore..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "16",
+            "text": "Please just leave me alone."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "17",
+            "text": "Please..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "18",
+            "text": "I’m tired of this."
+        },
+        {
+            "events": [],
+            "portrait": "monster",
+            "expression": "normal",
+            "speakingRight": false,
+            "voiceline": "monster3",
+            "text": "..."
+        }
+    ]
+}

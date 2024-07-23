@@ -1,0 +1,13 @@
+50,58
+smile,smile,0,0
+happy,happy0,0,0
+happycry,happycry,0,0
+slightsurprise,slightsurprise,0,0
+concerned,concerned,0,0
+confused,confused,0,0
+worried,worried,0,0
+nervoussmile,nervoussmile,0,0
+sweating,sweating,0,0
+nervous,nervous0,0,0
+terrified,terrified,17,0
+uncomfortable,uncomfortable,0,0

@@ -1,0 +1,390 @@
+{
+    "initialBG": "picnic",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "nature", 0.8]
+            ],
+            "portrait": "pico-picnic",
+            "expression": "shock",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "grace-picnic",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf-picnic",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "sven",
+            "expression": "shadow",
+            "speakingRight": false,
+            "voiceline": "1end",
+            "text": "...I ...I won."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "crazylaugh",
+            "speakingRight": false,
+            "voiceline": "2end",
+            "text": "You see that babe? I won!"
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "3end",
+            "text": "Yeah! You... really did..."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "worry",
+            "speakingRight": true,
+            "voiceline": "4end",
+            "text": "Baby, you okay?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "5end",
+            "text": "Throat hurts..."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "smirk",
+            "speakingRight": false,
+            "voiceline": "6end",
+            "text": "Aren’t you supposed to be a Fairest? You went down easier than I thought!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "7end",
+            "text": "You know what..."
+        },
+        {
+            "events": [["Play Music", "full-bloom", 0.7]],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "8end",
+            "text": "Congratulations. You beat me fair and square!"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "9end",
+            "text": "Huh? That’s all you’re gonna say? "
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "10end",
+            "text": "Yup! You won, Sven, congrats!"
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sadsmile",
+            "speakingRight": false,
+            "voiceline": "11end",
+            "text": "For what it’s worth, I had a lot of fun."
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "Thank you, everyone."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "13end",
+            "text": "You did? I-...I’m glad."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "happyclosed",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "15end",
+            "text": "Hey, Ben."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": "16end",
+            "text": "Y-Yeah?"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "neutraldown",
+            "speakingRight": false,
+            "voiceline": "17end",
+            "text": "You put up a good fight. You’re a lot tougher than I realized."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "18end",
+            "text": "Seems I had the wrong idea about you. I’m sorry for earlier."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "19end",
+            "text": "Oh, uh... thank you. You sing a lot better than I thought you would, too!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "20end",
+            "text": "UH, NO OFFENSE, OF COURSE!"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "happyclosed",
+            "speakingRight": false,
+            "voiceline": "21end",
+            "text": "None taken."
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "22end",
+            "text": "WAIT What time is it??!!"
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": "23end",
+            "text": "Oh goodness, I’m gonna be late! My parents think I’m reading at the library..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": "24end",
+            "text": "Huh?! They don’t know you’re on a date?"
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": "25end",
+            "text": "They’d kill me if they knew I was with Sven, let alone how’d they feel if they knew I was with you two as well."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "26end",
+            "text": "You’ve never... lied to your parents before."
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sadsmile",
+            "speakingRight": false,
+            "voiceline": "27end",
+            "text": "Yeah, well... I gotta live my own life sometime, y’know."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "28end",
+            "text": "... you’re absolutely right."
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "29end",
+            "text": "Ready to go Sven?"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "30end",
+            "text": "Sure, darling."
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "31end",
+            "text": "It was nice seeing you two again! Sorry for the trouble..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "32end",
+            "text": "No hard feelings. Be safe getting home, you two."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "33end",
+            "text": "...ahem?"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": true,
+            "voiceline": "34end",
+            "text": "Oh, uh... yeah, have a good day."
+        },
+        {
+            "events": [
+				["Change BG", "walkoff"],
+				["Hide Box"]
+			]
+        },
+        {
+            "events": [["Change BG", "picnic"]],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "35end",
+            "text": "You know... You really should be nicer."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "bored",
+            "speakingRight": false,
+            "voiceline": "36end",
+            "text": "Nah."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": "37end",
+            "text": "Heh, fair enough. Man, what a day..."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "38end",
+            "text": "Well, since the double date didn’t really plan out... do you wanna go on an actual date with me?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": "42end",
+            "text": "Really?"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "39end",
+            "text": "Well yeah, I mean... We didn’t even get to order."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "40end",
+            "text": "Let’s grab something to eat while we’re here."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "41end",
+            "text": "I would love to."
+        }
+    ]
+}

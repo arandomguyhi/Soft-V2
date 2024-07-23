@@ -1,0 +1,192 @@
+{
+    "initialBG": "station",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "homesick", 0.5]
+            ],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "1",
+            "text": "Alright, I really should be going now..."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "grace",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "Benny... Tell me something..."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "Why are you so interested in this criminal?"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "4",
+            "text": "Criminal...?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "5",
+            "text": "Can we please not do this right now?"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "6",
+            "text": "It was supposed to be the two of us since the beginning..."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "You promised... Our... Our parents promised."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "teary",
+            "speakingRight": false,
+            "voiceline": "8",
+            "text": "Mommy and Daddy told me that’s the way things are supposed to be!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "Grace, is that really what you want?"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "tearscared",
+            "speakingRight": false,
+            "voiceline": "10",
+            "text": "What? O-Of course!"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "teary",
+            "speakingRight": false,
+            "voiceline": "11",
+            "text": "W-we were born to be together, that’s our destiny!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "scared",
+            "speakingRight": true,
+            "voiceline": "12",
+            "text": "I- Grace! That’s not-"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "tearscared",
+            "speakingRight": false,
+            "voiceline": "13",
+            "text": "Why? Why are you running away from that? From me?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "14",
+            "text": "I'm not!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "15",
+            "text": "Don’t you see how messed up this is?!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "16",
+            "text": "You were born to live your OWN life, not just for an arranged marriage!"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "17",
+            "text": "N-no, that’s..."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "crazycry",
+            "speakingRight": false,
+            "voiceline": "18",
+            "text": "You’re WRONG! Mommy and Daddy wouldn’t lie to me!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "19",
+            "text": "Grace, listen-"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "crazycry",
+            "speakingRight": false,
+            "voiceline": "20",
+            "text": "No, you listen!"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "tearscared",
+            "speakingRight": false,
+            "voiceline": "21",
+            "text": "We... We’re supposed to get married, that’s what’s best for both of us!"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "teary",
+            "speakingRight": false,
+            "voiceline": "22",
+            "text": "So, please... just..."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "23",
+            "text": "Just come home..."
+        }
+    ]
+}

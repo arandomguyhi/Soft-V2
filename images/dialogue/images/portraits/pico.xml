@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="smug00" x="435.6" y="0.2" width="280.2" height="330.8" />
+  <SubTexture name="heart00" x="716.2" y="0.2" width="280.2" height="330.8" />
+  <SubTexture name="smugsmile00" x="996.8" y="0.2" width="280.2" height="330.8" />
+  <SubTexture name="neutral00" x="0.2" y="326.2" width="280.2" height="330.8" />
+  <SubTexture name="worry00" x="280.8" y="331.4" width="280.2" height="330.8" />
+  <SubTexture name="questioning00" x="561.4" y="331.4" width="280.2" height="330.8" />
+  <SubTexture name="annoyed00" x="842" y="331.4" width="280.2" height="330.8" />
+  <SubTexture name="bored00" x="0.2" y="657.4" width="280.2" height="330.8" />
+  <SubTexture name="flustered00" x="280.8" y="662.6" width="280.2" height="330.8" />
+  <SubTexture name="spray00" x="0.2" y="0.2" width="435" height="325.6" />
+  <SubTexture name="shock00" x="561.4" y="662.6" width="236.6" height="330.8" />
+</TextureAtlas>

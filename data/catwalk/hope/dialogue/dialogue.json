@@ -1,0 +1,184 @@
+{
+    "initialBG": "snowy-town",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "pressure", 0.6]
+            ],
+            "portrait": "mother-xmas",
+            "expression": "shout",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "YOU LITTLE SHIT!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "father-xmas",
+            "expression": "annoyed",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "You know..."
+        },
+        {
+            "events": [],
+            "portrait": "father-xmas",
+            "expression": "pissed",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "If you just did as you were told,"
+        },
+        {
+            "events": [],
+            "portrait": "father-xmas",
+            "expression": "annoyed",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "You wouldn’t need to wear that damn sweatshirt all the time."
+        },
+        {
+            "events": [],
+            "portrait": "father-xmas",
+            "expression": "pissed",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "You’d have nothing to hide."
+        },
+        {
+            "events": [],
+            "portrait": "father-xmas",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "6",
+            "text": "You could actually call yourself a man."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf-xmas",
+            "expression": "what",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "mother-xmas",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "Now be a good son and listen to your parents this instant!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "8",
+            "text": "Don’t you dare try to call me your son."
+        },
+        {
+            "events": [],
+            "portrait": "mother-xmas",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "angrycry",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "You tried to make me a mindless slave!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "10",
+            "text": "Just like Grace's parents did to her!"
+        },
+        {
+            "events": [],
+            "portrait": "mother-xmas",
+            "expression": "shout",
+            "speakingRight": false,
+            "voiceline": "11",
+            "text": "SHUT-"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "angrycry",
+            "speakingRight": true,
+            "voiceline": "12",
+            "text": "NO!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "13",
+            "text": "Parents are supposed to protect and care about their children."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "what",
+            "speakingRight": true,
+            "voiceline": "14",
+            "text": "You took away my dreams...My happiness...My trust..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "8",
+            "speakingRight": true,
+            "voiceline": "15",
+            "text": "My childhood."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "16",
+            "text": "For so long I thought that was what love truly was."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "confused",
+            "speakingRight": true,
+            "voiceline": "17",
+            "text": "But in reality?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "18",
+            "text": "You were never my parents, and you never will be."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "hitit",
+            "speakingRight": true,
+            "voiceline": "19",
+            "text": "Pico! Hit it!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico-xmas",
+            "expression": "yougotit",
+            "speakingRight": true,
+            "voiceline": "20",
+            "text": "You got it babe!"
+        }
+    ]
+}

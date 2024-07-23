@@ -1,0 +1,9 @@
+-5,50
+smug,smug,0,0
+heart,heart,0,0
+neutral,neutral,0,0
+worry,worry,0,0
+questioning,questioning,0,0
+annoyed,annoyed,0,0
+bored,bored,0,0
+shock,shock,0,0

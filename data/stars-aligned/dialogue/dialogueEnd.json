@@ -1,0 +1,182 @@
+{
+    "initialBG": "bench",
+    "dialogue": [
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "traffic", 0.8]
+			],
+            "portrait": "bf-picnic",
+            "expression": "happycry",
+            "speakingRight": true,
+            "voiceline": "1end",
+            "text": "...thank you."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico-picnic",
+            "expression": "heart",
+            "speakingRight": false,
+            "voiceline": "2end",
+            "text": "Of course..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "3end",
+            "text": "You’ve made my day amazing."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happycry",
+            "speakingRight": true,
+            "voiceline": "4end",
+            "text": "I love you."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "smug",
+            "speakingRight": false,
+            "voiceline": "5end",
+            "text": "I love you too, Ben."
+        },
+        {
+            "events": [
+				["Change BG", "mwah"],
+				["Hide Box"]
+			]
+        },
+        {
+            "events": [["Change BG", "bench"]],
+            "portrait": "pico-picnic",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": "cockblock",
+            "text": "what"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "smug",
+            "speakingRight": false,
+            "voiceline": "6end",
+            "text": "S-Sorry, uh..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": "7end",
+            "text": "Heh, it’s okay. Go ahead and answer it!"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "bored",
+            "speakingRight": false,
+            "voiceline": "8end",
+            "text": "...shit."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "9end",
+            "text": "What’s wrong?"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "10end",
+            "text": "...hold on. I’ll be right back."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "closedsmile",
+            "speakingRight": false,
+            "voiceline": "11end",
+            "text": "Ben waits for an agonizing five minutes until Pico returns."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "12end",
+            "text": "Who was it?"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "13end",
+            "text": "Oh... just my dad. He... mentioned wanting to see me for the holidays."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "14end",
+            "text": "Really? Are you gonna go?"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "15end",
+            "text": "I don’t really know yet."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "16end",
+            "text": "Would you go with me?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "17end",
+            "text": "Of course I will. You and me until the end of time, or whatever."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "18end",
+            "text": "I can handle meeting your folks. Hell, he can’t be worse than mine."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "19end",
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "smug",
+            "speakingRight": false,
+            "voiceline": "20end",
+            "text": "Yeah."
+        }
+    ]
+}

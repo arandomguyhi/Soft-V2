@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="spooky_kids.png" width="686" height="703">
+	<SubTexture name="both-happy" x="0.2" y="252.8" width="442.6" height="247.8" frameX="-0" frameY="-0" frameWidth="442.6" frameHeight="247.8"/>
+	<SubTexture name="both-spooky" x="0.2" y="0.2" width="452.20000000000005" height="252" frameX="-0" frameY="-0" frameWidth="452.20000000000005" frameHeight="252"/>
+	<SubTexture name="pump-forward" x="453" y="0.2" width="232.4" height="249" frameX="-10.4" frameY="-13.8" frameWidth="247.60000000000002" frameHeight="262.8"/>
+	<SubTexture name="pump-happy" x="453" y="249.8" width="230.20000000000002" height="247.8" frameX="-12.8" frameY="-15" frameWidth="247.60000000000002" frameHeight="262.8"/>
+	<SubTexture name="skid-forward" x="0.2" y="501.20000000000005" width="229.4" height="187.8" rotated="true" frameX="-33" frameY="-33.4" frameWidth="247.60000000000002" frameHeight="262.8"/>
+	<SubTexture name="skid-happy" x="443.40000000000003" y="498.20000000000005" width="225.8" height="204.20000000000002" rotated="true" frameX="-24" frameY="-37" frameWidth="247.60000000000002" frameHeight="262.8"/>
+</TextureAtlas>

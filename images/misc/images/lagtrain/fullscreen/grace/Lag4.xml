@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lag4.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lag40000" x="1" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40001" x="1" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40002" x="1" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40003" x="1" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40004" x="1" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40005" x="1" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40006" x="1" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40007" x="1" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40008" x="1" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40009" x="441" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40010" x="441" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40011" x="441" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40012" x="881" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40013" x="881" y="1" width="439" height="546"/>
+	<SubTexture name="Lag40014" x="1" y="548" width="439" height="546"/>
+	<SubTexture name="Lag40015" x="1" y="548" width="439" height="546"/>
+	<SubTexture name="Lag40016" x="441" y="548" width="439" height="546"/>
+	<SubTexture name="Lag40017" x="441" y="548" width="439" height="546"/>
+	<SubTexture name="Lag40018" x="441" y="548" width="439" height="546"/>
+	<SubTexture name="Lag40019" x="441" y="548" width="439" height="546"/>
+</TextureAtlas>

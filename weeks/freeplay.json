@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Promise", "grace", [146, 113, 253]],
+		["Rolling Girl", "bf", [70, 70, 70]],
+		["Lagtrain", "senpai", [178, 178, 178]]
+	],
+
+	"weekCharacters": [
+		"lol",
+		"lmao",
+		"rofl"
+	],
+	"weekBackground": "haha",
+
+	"storyName": "xD",
+	"weekBefore": "stars-aligned",
+	"weekName": ":laughing:",
+	"startUnlocked": true,
+	"difficulties": "Hard",
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

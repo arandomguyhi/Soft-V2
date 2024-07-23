@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lag6.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lag60000" x="1" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60001" x="1" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60002" x="1" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60003" x="1" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60004" x="1" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60005" x="1" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60006" x="1" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60007" x="1" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60008" x="1" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60009" x="548" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60010" x="548" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60011" x="548" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60012" x="1095" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60013" x="1095" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60014" x="1642" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60015" x="1642" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60016" x="2189" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60017" x="2189" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60018" x="2189" y="1" width="546" height="574"/>
+	<SubTexture name="Lag60019" x="2189" y="1" width="546" height="574"/>
+</TextureAtlas>

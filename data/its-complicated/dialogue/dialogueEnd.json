@@ -1,0 +1,155 @@
+{
+    "initialBG": "station",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "train", 0.8]
+            ],
+            "portrait": "grace",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": "1end",
+            "text": "This..."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "2end",
+            "text": "This wasn’t how it was meant to go..."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "3end",
+            "text": "I’m... sorry, Grace."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "4end",
+            "text": "That life we- THEY made for us doesn’t exist."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "teary",
+            "speakingRight": false,
+            "voiceline": "5end",
+            "text": "It's not fair!"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": "6end",
+            "text": "How could...? I-I thought..."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "tearscared",
+            "speakingRight": false,
+            "voiceline": "7end",
+            "text": "What did I do?"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "teary",
+            "speakingRight": false,
+            "voiceline": "8end",
+            "text": "Did I do something wrong?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "scared",
+            "speakingRight": true,
+            "voiceline": "9end",
+            "text": "God, o-of course not!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "10end",
+            "text": "You’re my best friend, Grace, that hasn’t changed, it’s just..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "happycry",
+            "speakingRight": true,
+            "voiceline": "11end",
+            "text": "I... want to live my OWN life, not what they created for us."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "12end",
+            "text": "I can’t help who I love."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "tearscared",
+            "speakingRight": false,
+            "voiceline": "13end",
+            "text": "Neither can I!"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "14end",
+            "text": "I..."
+        },
+        {
+            "events": [
+                ["Hide Box"],
+                ["Change BG", "car-pullup"]
+            ],
+            "portrait": null,
+            "expression": null,
+            "speakingRight": true,
+            "voiceline": "honk",
+            "text": "(BEEP)"
+        },
+        {
+            "events": [["Change BG", "station"]],
+            "portrait": "megablade",
+            "expression": "closedtalk",
+            "speakingRight": false,
+            "voiceline": "15end",
+            "text": "A white limo came to a screeching halt before them."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico",
+            "expression": "questioning",
+            "speakingRight": true,
+            "voiceline": "16end",
+            "text": "Uh, Ben?"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "worry",
+            "speakingRight": true,
+            "voiceline": "17end",
+            "text": "Not to interrupt or anything, but we’ve got a problem..."
+        }
+    ]
+}

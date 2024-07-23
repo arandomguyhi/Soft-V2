@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="hitit00" x="0.2" y="0.2" width="423" height="300" />
+  <SubTexture name="smile00" x="698.4" y="0.2" width="256.8" height="309.6" />
+  <SubTexture name="happy00" x="955.6" y="0.2" width="256.8" height="309.6" />
+  <SubTexture name="happycry00" x="1212.8" y="0.2" width="256.8" height="309.6" />
+  <SubTexture name="slightsurprise00" x="0.2" y="300.6" width="256.8" height="309.6" />
+  <SubTexture name="slightsurpriseblush00" x="257.4" y="304.4" width="256.8" height="309.6" />
+  <SubTexture name="concerned00" x="514.6" y="310.2" width="256.8" height="309.6" />
+  <SubTexture name="confused00" x="771.8" y="310.2" width="256.8" height="309.6" />
+  <SubTexture name="worried00" x="1029" y="310.2" width="256.8" height="309.6" />
+  <SubTexture name="scared00" x="1286.2" y="310.2" width="256.8" height="309.6" />
+  <SubTexture name="nervoussmile00" x="0.2" y="610.6" width="256.8" height="309.6" />
+  <SubTexture name="annoyed00" x="257.4" y="614.4" width="256.8" height="309.6" />
+  <SubTexture name="sweating00" x="514.6" y="620.2" width="256.8" height="309.6" />
+  <SubTexture name="what00" x="771.8" y="620.2" width="256.8" height="309.6" />
+  <SubTexture name="nervous00" x="1029" y="620.2" width="256.8" height="309.6" />
+  <SubTexture name="angrycry00" x="1286.2" y="620.2" width="256.8" height="309.6" />
+  <SubTexture name="terrified00" x="423.6" y="0.2" width="274.4" height="303.8" />
+  <SubTexture name="uncomfortable00" x="0.2" y="920.6" width="256.8" height="299.4" />
+</TextureAtlas>

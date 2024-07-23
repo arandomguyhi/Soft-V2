@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Roll1.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Roll10000" x="1" y="1" width="247" height="244"/>
+	<SubTexture name="Roll10001" x="1" y="1" width="247" height="244"/>
+	<SubTexture name="Roll10002" x="249" y="1" width="247" height="244"/>
+	<SubTexture name="Roll10003" x="249" y="1" width="247" height="244"/>
+	<SubTexture name="Roll10004" x="497" y="1" width="247" height="244"/>
+	<SubTexture name="Roll10005" x="497" y="1" width="247" height="244"/>
+	<SubTexture name="Roll10006" x="1" y="246" width="247" height="244"/>
+	<SubTexture name="Roll10007" x="1" y="246" width="247" height="244"/>
+	<SubTexture name="Roll10008" x="249" y="246" width="247" height="244"/>
+	<SubTexture name="Roll10009" x="249" y="246" width="247" height="244"/>
+	<SubTexture name="Roll10010" x="497" y="246" width="247" height="244"/>
+	<SubTexture name="Roll10011" x="497" y="246" width="247" height="244"/>
+</TextureAtlas>

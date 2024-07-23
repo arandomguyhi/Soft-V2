@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				7500,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			],
+			[
+				58000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.2"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			],
+			[
+				62000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.2"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

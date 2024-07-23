@@ -1,0 +1,80 @@
+{
+    "initialBG": "alleyway",
+    "dialogue": [
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "traffic", 0.8]
+			],
+            "portrait": "bf",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "1end",
+            "text": "How was that...?"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico",
+            "expression": "heart",
+            "speakingRight": false,
+            "voiceline": "2end",
+            "text": "You did amazing, Blue!"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "smug",
+            "speakingRight": false,
+            "voiceline": "3end",
+            "text": "I knew you could do it."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "happycry",
+            "speakingRight": true,
+            "voiceline": "4end",
+            "text": "Thank you..."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "smugsmile",
+            "speakingRight": false,
+            "voiceline": "5end",
+            "text": "Anytime."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "6end",
+            "text": "Though... We should probably get a move on before-"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "megablade",
+            "expression": "closedtalk",
+            "speakingRight": false,
+            "voiceline": "7end",
+            "text": "Footsteps could be heard at the entrance of the alleyway, interrupting their conversation."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "shock",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "...?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "scared",
+            "speakingRight": true,
+            "voiceline": "shock",
+            "text": "!!!"
+        }
+    ]
+}

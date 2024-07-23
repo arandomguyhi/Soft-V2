@@ -1,0 +1,7 @@
+50,-30
+pump-happy,pump-happy,10,0
+skid-happy,skid-happy,10,5
+pump-forward,pump-forward,0,0
+skid-forward,skid-forward,10,-10
+both-happy,both-happy,0,-10
+both-spooky,both-spooky,10,-10

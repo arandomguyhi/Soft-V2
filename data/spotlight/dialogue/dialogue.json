@@ -1,0 +1,136 @@
+{
+    "initialBG": "limo",
+    "dialogue": [
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "true-colors-f", 0.7]
+			],
+            "portrait": "mother",
+            "expression": "shout",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "ENOUGH."
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "I have tried, and tried, and TRIED to make you see what a mistake you’re making."
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "snarl",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "But clearly, you’re too stupid to see that."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "4",
+            "text": "Stop..."
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "You better drop this act and learn to respect your mother this instant!"
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "disgust",
+            "speakingRight": false,
+            "voiceline": "6",
+            "text": "You know what happens when you disobey."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "terrified",
+            "speakingRight": true,
+            "voiceline": "shock",
+            "text": "!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "7",
+            "text": "Okay, I’ve had enough of this, Softie-"
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "shout",
+            "speakingRight": false,
+            "voiceline": "8",
+            "text": "Silence, vermin! You can’t decide things for him!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "She’s right."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "shock",
+            "speakingRight": true,
+            "voiceline": "10",
+            "text": "What?!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "11",
+            "text": "I have to decide for myself."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "angrycry",
+            "speakingRight": true,
+            "voiceline": "12",
+            "text": "And I've decided to live the life I want to live!"
+        },
+        {
+            "events": [["Play Music", "cars", 0.8]],
+            "portrait": "mother",
+            "expression": "stern",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "stern",
+            "speakingRight": false,
+            "voiceline": "13",
+            "text": "You’ve always been such an utter disappointment of a son."
+        }
+    ]
+}

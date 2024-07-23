@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Thriller", "spooky", [246, 213, 239, 213, 155, 128]],
+		["High Spirits", "spooky", [246, 213, 239, 213, 155, 128]],
+		["Repressed", "monster", [21, 36, 48]]
+	],
+
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "spooky-room",
+	//"weekColor": [15, 131, 71],
+
+	"storyName": "Hair-Raising Hideout",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,11 @@
+20,80
+shock,shock,0,0
+shout,shout,0,0
+dramatic,dramatic0,-10,0
+dramaticlook,dramaticlook,0,20
+condescending,condescending,0,0
+grin,grin,0,0
+stern,stern,0,0
+worry,worry,0,0
+disgust,disgust,-1,-1
+snarl,snarl,-1,-1

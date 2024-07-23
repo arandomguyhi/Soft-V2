@@ -1,0 +1,198 @@
+{
+    "initialBG": "daytime-house",
+    "dialogue": [
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "train", 0.8]
+			],
+            "portrait": "megablade",
+            "expression": "look",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "After what felt like an endless night, both Pico and Benjamin awoke feeling quite the opposite of well-rested."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "They left the “house of horrors”, which was actually quite pleasant during the daytime."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "closedsmile",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "On foot, they spent the morning heading across town to the local train station."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "closedtalk",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "In order to stay out of trouble, they planned to get as far away from the Fairests as possible."
+        },
+        {
+            "events": [
+                ["Slide In"],
+                ["Change BG", "station"]
+            ],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "Where’s the damn train?!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "6",
+            "text": "Calm down, it’ll be here soon, I’m sure."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "bored",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "It better come quick, we’ve already been set back enough."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervous",
+            "speakingRight": true,
+            "voiceline": "8",
+            "text": "Yeah, I know."
+        },
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "train-of-thought", 0.6]
+			],
+            "portrait": "grace",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "9",
+            "text": "Benny!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "?!"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "10",
+            "text": "I haven’t seen you in weeks!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": "11",
+            "text": "Heeeeeeeeeeeey Grace..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "12",
+            "text": "What’re you doing here...?"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "13",
+            "text": "Oh, you know, just out and about."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "thinklook",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "thinktalk",
+            "speakingRight": false,
+            "voiceline": "14",
+            "text": "Heeeeeeey, you know what would be fun? A duet! Just like old times!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "15",
+            "text": "Uh, I’m sorry, I-I have to catch a train..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "It’ll show up before we’re done..."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "look",
+            "speakingRight": false,
+            "voiceline": "17",
+            "text": "I promise it’ll be quick!"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "lookstar",
+            "speakingRight": false,
+            "voiceline": "18",
+            "text": "And you know how I feel about promises!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": "19",
+            "text": "Okay."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "20",
+            "text": "Son of a-"
+        }
+    ]
+}

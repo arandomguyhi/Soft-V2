@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico-xmas.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="smug00" x="345" y="0.2" width="280.2" height="342.2" />
+  <SubTexture name="heart0" x="625.6" y="0.2" width="280.2" height="342.2" />
+  <SubTexture name="smugsmile0" x="906.2" y="0.2" width="280.2" height="342.2" />
+  <SubTexture name="annoyed0" x="0.2" y="346.6" width="280.2" height="342.2" />
+  <SubTexture name="flustered0" x="625.6" y="342.8" width="280.2" height="342.2" />
+  <SubTexture name="bored0" x="906.2" y="342.8" width="280.2" height="342.2" />
+  <SubTexture name="neutral0" x="280.8" y="685.4" width="280.2" height="342.2" />
+  <SubTexture name="worry0" x="561.4" y="685.4" width="280.2" height="342.2" />
+  <SubTexture name="questioning0" x="0.2" y="346.6" width="280.2" height="342.2" />
+  <SubTexture name="yougotit0" x="0.2" y="0.2" width="344.4" height="346" />
+</TextureAtlas>

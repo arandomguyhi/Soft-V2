@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LagSen2.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LagSen20000" x="1" y="1" width="593" height="792"/>
+	<SubTexture name="LagSen20001" x="1" y="1" width="593" height="792"/>
+	<SubTexture name="LagSen20002" x="595" y="1" width="593" height="792"/>
+	<SubTexture name="LagSen20003" x="595" y="1" width="593" height="792"/>
+	<SubTexture name="LagSen20004" x="1189" y="1" width="593" height="792"/>
+	<SubTexture name="LagSen20005" x="1189" y="1" width="593" height="792"/>
+	<SubTexture name="LagSen20006" x="1783" y="1" width="593" height="792"/>
+	<SubTexture name="LagSen20007" x="1783" y="1" width="593" height="792"/>
+	<SubTexture name="LagSen20008" x="1" y="794" width="593" height="792"/>
+	<SubTexture name="LagSen20009" x="1" y="794" width="593" height="792"/>
+	<SubTexture name="LagSen20010" x="595" y="794" width="593" height="792"/>
+	<SubTexture name="LagSen20011" x="595" y="794" width="593" height="792"/>
+	<SubTexture name="LagSen20012" x="1189" y="794" width="593" height="792"/>
+	<SubTexture name="LagSen20013" x="1189" y="794" width="593" height="792"/>
+	<SubTexture name="LagSen20014" x="0" y="0" width="1" height="1"/>
+</TextureAtlas>

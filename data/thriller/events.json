@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				46168.2242990654,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			],
+			[
+				46822.429906542,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Dad"
+					]
+				]
+			],
+			[
+				47102.8037383178,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.75"
+					]
+				]
+			],
+			[
+				48411.214953271,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			],
+			[
+				49065.4205607477,
+				[
+					[
+						"Play Animation",
+						"peace",
+						"BF"
+					]
+				]
+			],
+			[
+				49345.7943925234,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.75"
+					]
+				]
+			]
+		]
+	}
+}

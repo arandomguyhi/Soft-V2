@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Maturity", "father", [64, 90, 133]],
+		["All is Fair", "father", [64, 90, 133]],
+		["No Cigar", "father", [64, 90, 133]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "alleyway",
+	//"weekColor": [21, 74, 109],
+
+	"storyName": "Father Fairest",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

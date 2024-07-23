@@ -1,0 +1,288 @@
+{
+    "initialBG": "bench",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "standstill", 0.7]
+            ],
+            "portrait": "pico-picnic",
+            "expression": "heart",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "And THAT is the Andromeda galaxy!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "2",
+            "text": "... Looks like a blurred dot to me."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "3",
+            "text": "You know so much about the stars, Pico..."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "Yeah, well..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "5",
+            "text": "Heh, you’re cute when you’re all embarrassed."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "flustered",
+            "speakingRight": false,
+            "voiceline": "6",
+            "text": "Shut up..."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "... How’s your throat doing?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "8",
+            "text": "It’s much better now! Thanks for taking care of me."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "smug",
+            "speakingRight": false,
+            "voiceline": "9",
+            "text": "Anytime."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "10",
+            "text": "How, uh, how are you holding up after, you know..."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "11",
+            "text": "All THAT."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "12",
+            "text": "You know. I’ve never lost before."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "13",
+            "text": "... I’m sorry. I should have intervened sooner."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "14",
+            "text": "I really didn’t want you to have such a shitty day after yesterday."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "15",
+            "text": "You’ve got it all wrong, Pico."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "16",
+            "text": "Huh? What do you mean by that?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "17",
+            "text": "Today wasn’t shitty."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "19",
+            "text": "Seeing Sven get all excited to win... Seeing Grace smile so wide for him..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "20",
+            "text": "Just seeing them happy together."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happycry",
+            "speakingRight": true,
+            "voiceline": "21",
+            "text": "It’s... it’s been amazing."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happycry",
+            "speakingRight": true,
+            "voiceline": "22",
+            "text": "...I’m glad I could give that to them."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "23",
+            "text": "So, maybe nobody lost in the end at all?"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "bored",
+            "speakingRight": false,
+            "voiceline": "24",
+            "text": "Yeah you're right."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "heart",
+            "speakingRight": false,
+            "voiceline": "25",
+            "text": "...You really are amazing, Ben. "
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happycry",
+            "speakingRight": true,
+            "voiceline": "26",
+            "text": "...Thank you."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "27",
+            "text": "Can I ask you something? You can say no, of course."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": "28",
+            "text": "Sure, what’s up?"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "29",
+            "text": "Will you do a duet with me?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": "30",
+            "text": "Huh? You wanna sing?"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "31",
+            "text": "Yeah, y’know... Just the two of us."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "32",
+            "text": "End tonight on a high note."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "bored",
+            "speakingRight": false,
+            "voiceline": "33",
+            "text": "Pun not intended."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "34",
+            "text": "... Hehe, yeah, I’d like that."
+        }
+    ]
+}

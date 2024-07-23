@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lag3.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lag30000" x="1" y="1" width="817" height="614"/>
+	<SubTexture name="Lag30001" x="1" y="1" width="817" height="614"/>
+	<SubTexture name="Lag30002" x="819" y="1" width="817" height="614"/>
+	<SubTexture name="Lag30003" x="819" y="1" width="817" height="614"/>
+	<SubTexture name="Lag30004" x="1" y="616" width="817" height="614"/>
+	<SubTexture name="Lag30005" x="1" y="616" width="817" height="614"/>
+	<SubTexture name="Lag30006" x="819" y="616" width="817" height="614"/>
+	<SubTexture name="Lag30007" x="819" y="616" width="817" height="614"/>
+	<SubTexture name="Lag30008" x="1" y="1231" width="817" height="614"/>
+	<SubTexture name="Lag30009" x="1" y="1231" width="817" height="614"/>
+	<SubTexture name="Lag30010" x="819" y="1231" width="817" height="614"/>
+	<SubTexture name="Lag30011" x="819" y="1231" width="817" height="614"/>
+	<SubTexture name="Lag30012" x="819" y="1231" width="817" height="614"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grace.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="happy0" x="0.2" y="685.8" width="346.4" height="335" />
+  <SubTexture name="smile0" x="697.2" y="995" width="346.4" height="335" />
+  <SubTexture name="sweat0" x="1044" y="1004.4" width="346.4" height="335" />
+  <SubTexture name="worry0" x="1390.8" y="1004.4" width="346.4" height="335" />
+  <SubTexture name="fanning0" x="1212.8" y="0.2" width="372.8" height="335" />
+  <SubTexture name="look00" x="350.4" y="344" width="361.2" height="325.6" />
+  <SubTexture name="lookstar0" x="828.6" y="0.2" width="383.8" height="325.6" />
+  <SubTexture name="thinklook0" x="828.6" y="326.2" width="362.4" height="332.8" />
+  <SubTexture name="thinktalk0" x="1191.4" y="335.6" width="362.4" height="332.8" />
+  <SubTexture name="tearscared0" x="347" y="1005.6" width="346.4" height="334.6" />
+  <SubTexture name="teary0" x="0.2" y="1021.2" width="346.4" height="334.6" />
+  <SubTexture name="sadtalk0" x="712" y="659.4" width="346.4" height="335.2" />
+  <SubTexture name="sadsmile0" x="1058.8" y="668.8" width="346.4" height="335.2" />
+  <SubTexture name="sadworry0" x="350.4" y="670" width="346.4" height="335.2" />
+  <SubTexture name="crazycry0" x="437.8" y="0.2" width="390.4" height="343.4" />
+  <SubTexture name="crazygrin0" x="0.2" y="0.2" width="437.2" height="341.4" />
+  <SubTexture name="crazyhappy0" x="0.2" y="342" width="349.8" height="343.4" />
+</TextureAtlas>

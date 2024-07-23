@@ -1,0 +1,100 @@
+{
+    "initialBG": "snowy-town",
+    "dialogue": [
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf-xmas",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "...?"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico-xmas",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "1end",
+            "text": "Are you okay, Ben?"
+        },
+        {
+            "events": [
+				["Change BG", "genesis_hug"],
+                ["Play Music", "resolute", 0.6],
+				["Hide Box"]
+			]
+        },
+        {
+            "events": [["Change BG", "snowy-town"]],
+            "portrait": "bf-xmas",
+            "expression": "happycry",
+            "speakingRight": true,
+            "voiceline": "2end",
+            "text": "It’s over... It’s finally over."
+        },
+        {
+            "events": [],
+            "portrait": "pico-xmas",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "3end",
+            "text": "It's a long way from being over, Baby Blue..."
+        },
+        {
+            "events": [],
+            "portrait": "pico-xmas",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "4end",
+            "text": "But... I think I get what you mean."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "slightsurpriseblush",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": "5end",
+            "text": "Where did they..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "grin",
+            "speakingRight": true,
+            "voiceline": "6end",
+            "text": "Never mind, I don’t even want to know."
+        },
+        {
+            "events": [],
+            "portrait": "pico-xmas",
+            "expression": "smug",
+            "speakingRight": false,
+            "voiceline": "7end",
+            "text": "Anyways..."
+        },
+        {
+            "events": [],
+            "portrait": "pico-xmas",
+            "expression": "heart",
+            "speakingRight": false,
+            "voiceline": "8end",
+            "text": "How about we grab some hot chocolate and find a place to rest for the night?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "happycry",
+            "speakingRight": true,
+            "voiceline": "9end",
+            "text": "... sounds perfect."
+        }
+    ]
+}

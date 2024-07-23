@@ -1,0 +1,15 @@
+0,80
+angry,angry,0,0
+annoyed,annoyed,0,0
+bored,bored,0,0
+crazylaugh,crazylaugh,0,0
+determined,determined,0,0
+furious,furious,0,0
+happy,happy0,0,0
+happyclosed,happyclosed,0,0
+neutral,neutral0,0,0
+neutraldown,neutraldown,0,0
+questioning,questioning,0,0
+shadow,shadow0,0,0
+shadowangry,shadowangry,0,0
+smirk,smirk,0,0

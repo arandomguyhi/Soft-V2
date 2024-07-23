@@ -1,0 +1,136 @@
+{
+    "initialBG": "evil-town",
+    "dialogue": [
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf-xmas",
+            "expression": "scared",
+            "speakingRight": true,
+            "voiceline": "1",
+            "text": "PICO?!"
+        },
+        {
+            "events": [
+                ["Play Music", "recurring-nightmare-snowy", 0.6],
+                ["Slide In"]
+            ],
+            "portrait": "monster",
+            "expression": "xmas",
+            "speakingRight": false,
+            "voiceline": "monster1",
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "what",
+            "speakingRight": true,
+            "voiceline": "2",
+            "text": "You."
+        },
+        {
+            "events": [],
+            "portrait": "monster",
+            "expression": "xmas",
+            "speakingRight": false,
+            "voiceline": "monster2",
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "angrycry",
+            "speakingRight": true,
+            "voiceline": "3",
+            "text": "SAY SOMETHING FOR ONCE, GODDAMMIT!"
+        },
+        {
+            "events": [],
+            "portrait": "monster",
+            "expression": "xmas",
+            "speakingRight": false,
+            "voiceline": "monster4",
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "4",
+            "text": "You know, I never really understood what you were..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "what",
+            "speakingRight": true,
+            "voiceline": "5",
+            "text": "But I know very well who you are."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "6",
+            "text": "Or... who you’re supposed to be."
+        },
+        {
+            "events": [],
+            "portrait": "monster",
+            "expression": "xmas",
+            "speakingRight": false,
+            "voiceline": "monster6",
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "7",
+            "text": "Anyways, things are different now."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "8",
+            "text": "You don’t scare me anymore."
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "THEY don’t scare me anymore."
+        },
+        {
+            "events": [],
+            "portrait": "monster",
+            "expression": "xmas",
+            "speakingRight": false,
+            "voiceline": "monster7",
+            "text": "?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "angrycry",
+            "speakingRight": true,
+            "voiceline": "10",
+            "text": "I’m done letting you or ANYONE take control over my life!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-xmas",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "11",
+            "text": "This ends NOW."
+        }
+    ]
+}

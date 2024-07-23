@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="grace-picnic.png" width="899" height="888">
+	<SubTexture name="fanning" x="317.6" y="0.2" width="310.20000000000005" height="340.20000000000005" frameX="-61.6" frameY="-4" frameWidth="490.20000000000005" frameHeight="348.40000000000003"/>
+	<SubTexture name="happy" x="0.2" y="0.2" width="316.8" height="340.20000000000005" frameX="-55" frameY="-4" frameWidth="490.20000000000005" frameHeight="348.40000000000003"/>
+	<SubTexture name="sadsmile" x="0.2" y="341" width="344.40000000000003" height="276.2" rotated="true" frameX="-101.2" frameY="-4" frameWidth="490.20000000000005" frameHeight="348.40000000000003"/>
+	<SubTexture name="sadtalk" x="345.20000000000005" y="341" width="276.2" height="344.40000000000003" frameX="-101.2" frameY="-4" frameWidth="490.20000000000005" frameHeight="348.40000000000003"/>
+	<SubTexture name="sadworry" x="0.2" y="617.8000000000001" width="340.20000000000005" height="270.2" rotated="true" frameX="-101.60000000000001" frameY="-4" frameWidth="490.20000000000005" frameHeight="348.40000000000003"/>
+	<SubTexture name="smile" x="622" y="341" width="270.2" height="340.20000000000005" frameX="-101.60000000000001" frameY="-4" frameWidth="490.20000000000005" frameHeight="348.40000000000003"/>
+	<SubTexture name="sweat" x="628.4000000000001" y="0.2" width="270.2" height="340.20000000000005" frameX="-101.60000000000001" frameY="-4" frameWidth="490.20000000000005" frameHeight="348.40000000000003"/>
+</TextureAtlas>

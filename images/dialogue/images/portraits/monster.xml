@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="monster.png" width="507" height="841">
+	<SubTexture name="normal" x="0.3" y="423.59999999999997" width="506.4" height="417" frameX="-0" frameY="-0" frameWidth="506.4" frameHeight="417"/>
+	<SubTexture name="xmas" x="0.3" y="0.3" width="506.4" height="422.4" frameX="-0" frameY="-0" frameWidth="506.4" frameHeight="422.4"/>
+</TextureAtlas>

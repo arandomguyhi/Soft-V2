@@ -1,0 +1,12 @@
+{
+	"song":
+	{
+		"name": "Spikes",
+		"artist": "nasadotexe",
+		"pause": "sven"
+	},
+	"control":
+	{
+		"fakeDeath": true
+	}
+}

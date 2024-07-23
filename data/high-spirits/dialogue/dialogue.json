@@ -1,0 +1,120 @@
+{
+    "initialBG": "spooky-room",
+    "dialogue": [
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "eek", 0.7]
+			],
+            "portrait": "bf",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "1",
+            "text": "Wow... you guys are... waaay tougher than I thought."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "spooky_kids",
+            "expression": "skid-happy",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "That was fun!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "spooky_kids",
+            "expression": "pump-happy",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "Let's do another!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": "4",
+            "text": "Oh...? You wanna keep going?"
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "both-happy",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "We can even show you the spooky dance this time!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "what",
+            "speakingRight": true,
+            "voiceline": "6",
+            "text": "Spooky... dance?"
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "pump-happy",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "Yeah! It's where you kinda crouch and then you dance..."
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "skid-happy",
+            "speakingRight": false,
+            "voiceline": "8",
+            "text": "C'mon, we'll show you!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "I'm not much of a dancer..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "10",
+            "text": "But one more shouldn't hurt..."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico",
+            "expression": "worry",
+            "speakingRight": true,
+            "voiceline": "11",
+            "text": "Are you sure about this, Baby Blue? You look like you need to sit down."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "12",
+            "text": "It'll be fine, Pico! They're just kids looking for fun."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "13",
+            "text": "I wanna keep them in high spirits."
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "both-happy",
+            "speakingRight": false,
+            "voiceline": "14",
+            "text": "Yippee!"
+        }
+    ]
+}

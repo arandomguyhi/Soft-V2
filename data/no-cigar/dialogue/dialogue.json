@@ -1,0 +1,96 @@
+{
+    "initialBG": "alleyway",
+    "dialogue": [
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "true-colors-f", 0.7]
+			],
+            "portrait": "father",
+            "expression": "confused",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "Hm. You know..."
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "annoyed",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "It’s been a real pain trying to find you these past couple of weeks."
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "pissed",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "Let’s make a deal, hm?"
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "If you can beat me in this next song, we can forget this all ever happened."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": "5",
+            "text": "Really...?"
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "6",
+            "text": "Scout's honor."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "7",
+            "text": "Don’t trust him, Ben."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": "8",
+            "text": "Okay. If you really promise..."
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "9",
+            "text": "You know the deal if you lose."
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "10",
+            "text": "After we get back home, I’ll make sure to whip you back into shape."
+        }
+    ]
+}

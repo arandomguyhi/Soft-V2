@@ -1,0 +1,111 @@
+{
+	"song": {
+		"events": [
+			[
+				47625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0"
+					]
+				]
+			],
+			[
+				136500,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.2"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Set Property",
+						"cameraSpeed",
+						"1.5"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.05"
+					]
+				]
+			],
+			[
+				138937.5,
+				[
+					[
+						"Move Camera",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				139687.5,
+				[
+					[
+						"Move Camera",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				140437.5,
+				[
+					[
+						"Move Camera",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"Move Camera",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				141937.5,
+				[
+					[
+						"Move Camera",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				142500,
+				[
+					[
+						"Move Camera",
+						"",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			]
+		]
+	}
+}

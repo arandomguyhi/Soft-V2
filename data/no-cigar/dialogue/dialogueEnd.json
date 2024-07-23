@@ -1,0 +1,129 @@
+{
+    "initialBG": "alleyway",
+    "dialogue": [
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "traffic", 0.8]
+			],
+            "portrait": "pico",
+            "expression": "shock",
+            "speakingRight": true,
+            "voiceline": "1end",
+            "text": "You did it!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": "2end",
+            "text": "I... yeah!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "3end",
+            "text": "I guess I did!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": "4end",
+            "text": "So, um... we’re free to go right?"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "father",
+            "expression": "pissed",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "annoyed",
+            "speakingRight": false,
+            "voiceline": "5end",
+            "text": "C’mon, Benjamin. We never raised an idiot."
+        },
+        {
+            "events": [],
+            "portrait": "father",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "6end",
+            "text": "You didn’t ACTUALLY think I was leaving empty-handed, did you?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "terrified",
+            "speakingRight": true,
+            "voiceline": "shock",
+            "text": "!!!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "angrycry",
+            "speakingRight": true,
+            "voiceline": "7end",
+            "text": "N-no! Stay away from me!"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "spray",
+            "speakingRight": true,
+            "voiceline": "8end",
+            "text": "Get your hands off of him!"
+        },
+        {
+            "events": [
+				["Change BG", "no-cigar_GRIMACEBLAST"],
+                ["Play Sound", "grimaceBLAST"],
+				["Hide Box"]
+			]
+        },
+        {
+            "events": [
+				["Change BG", "alleyway"]
+			],
+            "portrait": "father",
+            "expression": "sprayed",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "!?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "scared",
+            "speakingRight": true,
+            "voiceline": "9end",
+            "text": "PICO-!"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "10end",
+            "text": "Come on! I know a place we can hide!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "megablade",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "11end",
+            "text": "The two boys make a break for it, leaving behind Father Fairest, who’s all but done."
+        }
+    ]
+}

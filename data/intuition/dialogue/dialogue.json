@@ -1,0 +1,142 @@
+{
+    "initialBG": "limo",
+    "dialogue": [
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "cars", 0.8]
+			],
+            "portrait": "megablade",
+            "expression": "talk",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "While in the middle of a stressful conversation, our two boys are swept up from the streets faster than light."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "Startled, they glance in all directions, yet they only find the wind in their hair, cars flashing by..."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "closedtalk",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "And an unwelcome, yet beautiful face..."
+        },
+        {
+            "events": [
+                ["Slide In"],
+                ["Silhouette"]
+            ],
+            "portrait": "mother",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "Mother Mairest."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": "5",
+            "text": "Heh..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervous",
+            "speakingRight": true,
+            "voiceline": "6",
+            "text": "H-Hi, mom..."
+        },
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "fashionova", 0.6]
+			],
+            "portrait": "mother",
+            "expression": "condescending",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "There's my sweet little baby!"
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "dramatic",
+            "speakingRight": false,
+            "voiceline": "8",
+            "text": "Your father and I have been oh so worried about you!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "I'm okay, I swear-"
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "condescending",
+            "speakingRight": false,
+            "voiceline": "10",
+            "text": "Oh darling, you know how mama worries!"
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "11",
+            "text": "You've had your fun, but I think it's about time to come home, don't you?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "uncomfortable",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "12",
+            "text": "Mom- I... no."
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "grin",
+            "speakingRight": false,
+            "voiceline": "13",
+            "text": "Could you repeat that? I'm not sure I heard you right."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "14",
+            "text": "I said- I said no."
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "15",
+            "text": "... But honey, I need a yes."
+        }
+    ]
+}

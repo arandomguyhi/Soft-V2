@@ -1,0 +1,363 @@
+{
+    "initialBG": "picnic",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "nature", 0.8]
+            ],
+            "portrait": "megablade",
+            "expression": "look",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "A new day begins a new chapter in their lives as Ben and Pico walk along a dirt pathway."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "closedsmile",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "The weather was quite nice for December afternoon, allowing people to stroll comfortably around the local park."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "talk",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "For once, there wasn’t anxiety or fear, just a little bit of the first impression jitters."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "Our boys stop under one of the many trees scattered around the park, surveying the area."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "See them yet?"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "6",
+            "text": "I don’t think so."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": "7",
+            "text": "It’s already 3:40. They were supposed to be here ten minutes ago..."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "8",
+            "text": "I’m sure they are just running late. Besides, it’s not like we’re exactly on time either. "
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "It’s unlike Grace to be late, though."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "10",
+            "text": "Ever since we were kids, she was on time, if not five minutes early."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "11",
+            "text": "Yeah, I get it."
+        },
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "train-of-thought", 0.6]
+            ],
+            "portrait": "grace-picnic",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "12",
+            "text": "Benny!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "13",
+            "text": "Oh, there she is!"
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "14",
+            "text": "It’s so good to see you again!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "15",
+            "text": "Y-You too!"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "16",
+            "text": "So... This is the “childhood friend” I keep hearing about?"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "bored",
+            "speakingRight": false,
+            "voiceline": "17",
+            "text": "Tch. I expected more."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "confused",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "?!"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "19",
+            "text": "Hey, watch it."
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": "20",
+            "text": "Sven! I’m so sorry Benny. I promise he’s usually friendlier than this..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": "21",
+            "text": "No no! It’s fine. You know first impressions aren’t my strong suit either..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "22",
+            "text": "I uh, see you cut your hair! It looks great!"
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "23",
+            "text": "Aw! Thank you! Sven cut it for me!"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "bored",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "neutral",
+            "speakingRight": true,
+            "voiceline": "25",
+            "text": "Hey Grace... are you sure he doesn’t bite?"
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "26",
+            "text": "I don’t like the way he’s looking at me or my boyfriend."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "27",
+            "text": "How about we just... go eat lunch?"
+        },
+        {
+            "events": [["Fade Out Music"]],
+            "portrait": "megablade",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "28",
+            "text": "The four sit down, each pair across from one another. The air was uncomfortable, the tension suffocating."
+        },
+        {
+            "events": [["Play Music", "nature", 0.8]],
+            "portrait": "bf-picnic",
+            "expression": "uncomfortable",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "30",
+            "text": "Soooooo... How did you two meet?"
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sweat",
+            "speakingRight": false,
+            "voiceline": "31",
+            "text": "Oh! We met like a month ago, at the train station!"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "32",
+            "text": "Wow, really? That sounds-"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "uncomfortable",
+            "speakingRight": true,
+            "voiceline": "33",
+            "text": "Wait you mean...?"
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "sadsmile",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [["Play Music", "intimidation", 0.8]],
+            "portrait": "sven",
+            "expression": "neutraldown",
+            "speakingRight": false,
+            "voiceline": "35",
+            "text": "Hey, you know what? Grace told me a looooot about you, “Benji”..."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "nervous",
+            "speakingRight": true,
+            "voiceline": "37",
+            "text": "Oh, please, you can just call me Ben..."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "38",
+            "text": "She said you were a pretty good singer."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "39",
+            "text": "How about a round?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "40",
+            "text": "I’m... not sure..."
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "41",
+            "text": "Come on Benji! It could be a nice way to get to know one another."
+        },
+        {
+            "events": [],
+            "portrait": "pico-picnic",
+            "expression": "bored",
+            "speakingRight": true,
+            "voiceline": "42",
+            "text": "I don’t like the way this is going."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "43",
+            "text": "I..."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "44",
+            "text": "You don’t want to let her down... Do you?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "45",
+            "text": "...Fine. Just one round."
+        }
+    ]
+}

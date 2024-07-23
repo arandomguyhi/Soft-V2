@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Soft Hench 2.png">
+	<!-- Created with Adobe Animate version 21.0.12.42687 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SH2 Angy0000" x="50" y="50" width="211" height="318" pivotX="-403.65" pivotY="-73.7" frameX="0" frameY="-17" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Angy0001" x="50" y="50" width="211" height="318" frameX="0" frameY="-17" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Angy0002" x="311" y="50" width="208" height="323" frameX="-2" frameY="-13" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Angy0003" x="311" y="50" width="208" height="323" frameX="-2" frameY="-13" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Angy0004" x="569" y="50" width="206" height="330" frameX="-3" frameY="-6" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Angy0005" x="569" y="50" width="206" height="330" frameX="-3" frameY="-6" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Angy0006" x="825" y="50" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Angy0007" x="825" y="50" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Angy0008" x="825" y="50" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Angy0009" x="825" y="50" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Angy0010" x="825" y="50" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Con0000" x="1081" y="50" width="211" height="318" pivotX="-403.65" pivotY="-73.7" frameX="0" frameY="-17" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Con0001" x="1081" y="50" width="211" height="318" frameX="0" frameY="-17" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Con0002" x="1342" y="50" width="208" height="323" frameX="-2" frameY="-13" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Con0003" x="1342" y="50" width="208" height="323" frameX="-2" frameY="-13" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Con0004" x="1600" y="50" width="206" height="330" frameX="-3" frameY="-6" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Con0005" x="1600" y="50" width="206" height="330" frameX="-3" frameY="-6" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Con0006" x="50" y="436" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Con0007" x="50" y="436" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Con0008" x="50" y="436" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Con0009" x="50" y="436" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Con0010" x="50" y="436" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Happ0000" x="306" y="436" width="211" height="318" pivotX="-403.65" pivotY="-73.7" frameX="0" frameY="-17" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Happ0001" x="306" y="436" width="211" height="318" frameX="0" frameY="-17" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Happ0002" x="567" y="436" width="208" height="323" frameX="-2" frameY="-13" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Happ0003" x="567" y="436" width="208" height="323" frameX="-2" frameY="-13" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Happ0004" x="825" y="436" width="206" height="330" frameX="-3" frameY="-6" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Happ0005" x="825" y="436" width="206" height="330" frameX="-3" frameY="-6" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Happ0006" x="1081" y="436" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Happ0007" x="1081" y="436" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Happ0008" x="1081" y="436" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Happ0009" x="1081" y="436" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+	<SubTexture name="SH2 Happ0010" x="1081" y="436" width="206" height="336" frameX="-3" frameY="0" frameWidth="211" frameHeight="336"/>
+</TextureAtlas>

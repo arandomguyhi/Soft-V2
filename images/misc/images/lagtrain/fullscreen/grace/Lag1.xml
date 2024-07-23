@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lag1.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lag10000" x="1" y="1" width="498" height="506"/>
+	<SubTexture name="Lag10001" x="1" y="1" width="498" height="506"/>
+	<SubTexture name="Lag10002" x="500" y="1" width="498" height="506"/>
+	<SubTexture name="Lag10003" x="500" y="1" width="498" height="506"/>
+	<SubTexture name="Lag10004" x="999" y="1" width="498" height="506"/>
+	<SubTexture name="Lag10005" x="999" y="1" width="498" height="506"/>
+	<SubTexture name="Lag10006" x="1" y="508" width="498" height="506"/>
+	<SubTexture name="Lag10007" x="1" y="508" width="498" height="506"/>
+	<SubTexture name="Lag10008" x="500" y="508" width="498" height="506"/>
+	<SubTexture name="Lag10009" x="500" y="508" width="498" height="506"/>
+	<SubTexture name="Lag10010" x="999" y="508" width="498" height="506"/>
+	<SubTexture name="Lag10011" x="999" y="508" width="498" height="506"/>
+	<SubTexture name="Lag10012" x="999" y="508" width="498" height="506"/>
+	<SubTexture name="Lag10013" x="999" y="508" width="498" height="506"/>
+	<SubTexture name="Lag10014" x="999" y="508" width="498" height="506"/>
+</TextureAtlas>

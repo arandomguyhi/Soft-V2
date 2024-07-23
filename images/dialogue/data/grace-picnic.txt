@@ -1,0 +1,8 @@
+-60,35
+happy,happy,0,0
+smile,smile,0,0
+sweat,sweat,0,0
+fanning,fanning,0,0
+sadtalk,sadtalk,0,0
+sadsmile,sadsmile,0,0
+sadworry,sadworry,0,0

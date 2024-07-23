@@ -1,0 +1,342 @@
+{
+    "initialBG": "spooky-house",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "spooky", 0.8]
+            ],
+            "portrait": "megablade",
+            "expression": "closedtalk",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "The starry night had given away to dark clouds, rumbling a warning before giving way to a downpour."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "closedtalk",
+            "speakingRight": false,
+            "voiceline": "2",
+            "text": "Our boys found themselves taking cover in a decrepit building."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "talk",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "It was near impossible to see three feet in front of them when there wasn’t a hint of light to brighten up the room."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "look",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "At least they were alone..."
+        },
+        {
+            "events": [],
+            "portrait": "megablade",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "Right?"
+        },
+        {
+            "events": [
+                ["Slide In"],
+                ["Change BG", "spooky-room-dark"]
+            ],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "6",
+            "text": "I don’t know about this place, Pico..."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "Well, you got a better place to hide?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervous",
+            "speakingRight": true,
+            "voiceline": "8",
+            "text": "...no."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "uncomfortable",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "But an abandoned mansion? It’s scary, it’s unsettling..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "10",
+            "text": "It’s... it’s..."
+        },
+        {
+            "events": [
+                ["Slide In"],
+                ["Silhouette"]
+            ],
+            "portrait": "spooky_kids",
+            "expression": "both-spooky",
+            "speakingRight": false,
+            "voiceline": "11",
+            "text": "IT’S-A SPOOKY!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "happy",
+            "speakingRight": true,
+            "voiceline": "12",
+            "text": "Yeah, exactly, you took the words right from my mouth, Pico..."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "neutral",
+            "speakingRight": true,
+            "voiceline": "13",
+            "text": "... that wasn’t me."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "scared",
+            "speakingRight": true,
+            "voiceline": "14",
+            "text": "H-Huh?! Then who...?"
+        },
+        {
+            "events": [
+                ["Play Sound", "jumpscare", 0.7]
+            ],
+            "portrait": "spooky_kids",
+            "expression": "both-spooky",
+            "speakingRight": false,
+            "voiceline": "15",
+            "text": "Hi, misters!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "terrified",
+            "speakingRight": true,
+            "voiceline": "16",
+            "text": "Beep!"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "bored",
+            "speakingRight": true,
+            "voiceline": "17",
+            "text": "Relax, it’s just a couple of kids."
+        },
+		{
+			"events": [
+				["Change BG", "spooky-room"],
+				["Play Music", "eek", 0],
+				["Play Sound", "sqweak", 1]
+			],
+            "portrait": "spooky_kids",
+            "expression": "both-happy",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": null
+		},
+        {
+            "events": [
+                ["Play Music", "eek", 0.7]
+            ],
+            "portrait": "pico",
+            "expression": "questioning",
+            "speakingRight": true,
+            "voiceline": "18",
+            "text": "What the hell are you two doing here?"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "spooky_kids",
+            "expression": "skid-happy",
+            "speakingRight": false,
+            "voiceline": "19",
+            "text": "I am Skid and this is Pump!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "spooky_kids",
+            "expression": "pump-happy",
+            "speakingRight": false,
+            "voiceline": "20",
+            "text": "We are doing the spooky things during the spooky month!"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "questioning",
+            "speakingRight": true,
+            "voiceline": "21",
+            "text": "It’s November. Isn’t it a bit... late?"
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "skid-happy",
+            "speakingRight": false,
+            "voiceline": "22",
+            "text": "That’s what all the kids at school say."
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "skid-happy",
+            "speakingRight": false,
+            "voiceline": "23",
+            "text": "But my mom says it’s not true!"
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "pump-happy",
+            "speakingRight": false,
+            "voiceline": "24",
+            "text": "We come here to hide from them..."
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "pump-happy",
+            "speakingRight": false,
+            "voiceline": "25",
+            "text": "So we can be as spooky as we want!"
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "skid-forward",
+            "speakingRight": false,
+            "voiceline": "26",
+            "text": "Hey, wait, you look familiar!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "27",
+            "text": "O-oh?"
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "skid-happy",
+            "speakingRight": false,
+            "voiceline": "28",
+            "text": "Yeah yeah! We know your parents, they're super famous!"
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "pump-forward",
+            "speakingRight": false,
+            "voiceline": "29",
+            "text": "Also, we’ve seen your face on posters all over town."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "30",
+            "text": "...I see."
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "skid-happy",
+            "speakingRight": false,
+            "voiceline": "31",
+            "text": "My mom has tapes of Mr. Fairest and Mrs. Mairest performing!"
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "pump-happy",
+            "speakingRight": false,
+            "voiceline": "32",
+            "text": "We watch them all the time. "
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "skid-forward",
+            "speakingRight": false,
+            "voiceline": "33",
+            "text": "Hey hey hey! Can you sing too?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "34",
+            "text": "Um, well...y-yes?"
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "pump-forward",
+            "speakingRight": false,
+            "voiceline": "35",
+            "text": "Then let’s do a rap battle!"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "bored",
+            "speakingRight": true,
+            "voiceline": "36",
+            "text": "Probably not the greatest idea."
+        },
+        {
+            "events": [],
+            "portrait": "spooky_kids",
+            "expression": "both-happy",
+            "speakingRight": false,
+            "voiceline": "37",
+            "text": "Pleaaaase?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "smile",
+            "speakingRight": true,
+            "voiceline": "38",
+            "text": "Aw... alright little dudes."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "bored",
+            "speakingRight": true,
+            "voiceline": "39",
+            "text": "...you’ve gotta be kidding me."
+        }
+    ]
+}

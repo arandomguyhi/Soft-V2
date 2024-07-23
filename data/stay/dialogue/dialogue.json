@@ -1,0 +1,124 @@
+{
+    "initialBG": "station",
+    "dialogue": [
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "train-of-thought", 0.6]
+			],
+            "portrait": "grace",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "See? I told you it'd be quick!"
+        },
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "train", 0.8],
+                ["Play Sound", "womp"]
+			],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "2",
+            "text": "We've missed the train like three times-"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "thinklook",
+            "speakingRight": false,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [["Play Music", "train-of-thought", 0.6]],
+            "portrait": "grace",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "Anyways!"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "4",
+            "text": "You handled that first song like a champ, Benny!"
+        },
+        {
+            "events": [["Fade Out Music"]],
+            "portrait": "grace",
+            "expression": "sadsmile",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "You were always the better singer..."
+        },
+        {
+            "events": [["Play Music", "train", 0.8]],
+            "portrait": "grace",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "6",
+            "text": "You know..."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "Your parents and I have been worried sick about you."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "nervous",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sadtalk",
+            "speakingRight": false,
+            "voiceline": "8",
+            "text": "When are you gonna come back?"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sadworry",
+            "speakingRight": false,
+            "voiceline": "9",
+            "text": "You... ARE coming back... right?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "10",
+            "text": "I'm... not, Grace. I'm sorry."
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "fanning",
+            "speakingRight": false,
+            "voiceline": "11",
+            "text": "Oh c'mon Benny, enough of the jokes and silly talk!"
+        },
+        {
+            "events": [],
+            "portrait": "grace",
+            "expression": "sweat",
+            "speakingRight": false,
+            "voiceline": "12",
+            "text": "Maybe this will change your mind!"
+        }
+    ]
+}

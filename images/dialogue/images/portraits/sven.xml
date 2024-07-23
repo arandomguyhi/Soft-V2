@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="sven.png" width="1412" height="1564">
+	<SubTexture name="angry" x="364.6" y="0.2" width="298.8" height="387.40000000000003" frameX="-132" frameY="-0.8" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="annoyed" x="664" y="0.2" width="427.6" height="387.40000000000003" frameX="-3.2" frameY="-0.8" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="bored" x="1092.2" y="0.2" width="298.8" height="387.40000000000003" frameX="-132" frameY="-0.8" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="crazylaugh" x="0.2" y="0.2" width="363.8" height="379.8" frameX="-70.2" frameY="-8.4" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="determined" x="0.2" y="380.6" width="298.8" height="387.40000000000003" frameX="-132" frameY="-0.8" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="furious" x="0.2" y="1164.2" width="417.8" height="399.20000000000005" frameX="-51" frameY="-0.8" frameWidth="480.40000000000003" frameHeight="400"/>
+	<SubTexture name="happy0" x="299.6" y="388.20000000000005" width="298.8" height="387.40000000000003" frameX="-132" frameY="-0.8" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="happyclosed" x="599" y="388.20000000000005" width="298.8" height="387.40000000000003" frameX="-132" frameY="-0.8" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="neutral0" x="898.4000000000001" y="388.20000000000005" width="427.6" height="387.40000000000003" frameX="-3.2" frameY="-0.8" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="neutraldown" x="0.2" y="768.6" width="298.8" height="387.40000000000003" frameX="-132" frameY="-0.8" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="questioning" x="299.6" y="776.2" width="427.6" height="387.40000000000003" frameX="-3.2" frameY="-0.8" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="shadow0" x="727.8000000000001" y="776.2" width="341.8" height="387.40000000000003" frameX="-89" frameY="-0.8" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="shadowangry" x="1070.2" y="776.2" width="341.8" height="387.40000000000003" frameX="-89" frameY="-0.8" frameWidth="466.40000000000003" frameHeight="388.20000000000005"/>
+	<SubTexture name="smirk" x="418.6" y="1164.2" width="465.40000000000003" height="399.40000000000003" frameX="-4" frameY="-18.6" frameWidth="510" frameHeight="421"/>
+</TextureAtlas>

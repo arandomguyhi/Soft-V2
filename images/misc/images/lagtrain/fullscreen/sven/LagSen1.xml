@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LagSen1.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LagSen10000" x="1" y="1" width="619" height="588"/>
+	<SubTexture name="LagSen10001" x="1" y="1" width="619" height="588"/>
+	<SubTexture name="LagSen10002" x="621" y="1" width="619" height="588"/>
+	<SubTexture name="LagSen10003" x="621" y="1" width="619" height="588"/>
+	<SubTexture name="LagSen10004" x="1241" y="1" width="619" height="588"/>
+	<SubTexture name="LagSen10005" x="1241" y="1" width="619" height="588"/>
+	<SubTexture name="LagSen10006" x="1861" y="1" width="619" height="588"/>
+	<SubTexture name="LagSen10007" x="1861" y="1" width="619" height="588"/>
+	<SubTexture name="LagSen10008" x="1" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10009" x="1" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10010" x="621" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10011" x="621" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10012" x="1241" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10013" x="1241" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10014" x="1" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10015" x="1" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10016" x="1861" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10017" x="1861" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10018" x="1" y="1179" width="619" height="588"/>
+	<SubTexture name="LagSen10019" x="1" y="1179" width="619" height="588"/>
+	<SubTexture name="LagSen10020" x="1" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10021" x="1" y="590" width="619" height="588"/>
+	<SubTexture name="LagSen10022" x="621" y="1179" width="619" height="588"/>
+	<SubTexture name="LagSen10023" x="621" y="1179" width="619" height="588"/>
+	<SubTexture name="LagSen10024" x="1241" y="1179" width="619" height="588"/>
+	<SubTexture name="LagSen10025" x="1241" y="1179" width="619" height="588"/>
+</TextureAtlas>

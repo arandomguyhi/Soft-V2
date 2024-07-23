@@ -1,0 +1,10 @@
+20,110
+smile,smile0,0,0
+happy,happy0,0,0
+happylook,happylook0,0,0
+confused,confused0,0,0
+angrysmile,angrysmile0,0,0
+pissed,pissed0,0,0
+annoyed,annoyed0,0,0
+grin,grin0,0,0
+sprayed,grimaceshake0,0,0

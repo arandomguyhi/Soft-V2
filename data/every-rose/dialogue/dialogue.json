@@ -1,0 +1,168 @@
+{
+    "initialBG": "picnic",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "intimidation", 0.8]
+            ],
+            "portrait": "sven",
+            "expression": "annoyed",
+            "speakingRight": false,
+            "voiceline": "1",
+            "text": "...tch."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf-picnic",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "2",
+            "text": "Heh, that, uh, that was really good, but... Can we get back to the date now...?"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "angry",
+            "speakingRight": false,
+            "voiceline": "3",
+            "text": "Rematch."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "confused",
+            "speakingRight": true,
+            "voiceline": "4",
+            "text": "...excuse me?"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "angry",
+            "speakingRight": false,
+            "voiceline": "5",
+            "text": "You heard me. I. Want. A. Rematch."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "6",
+            "text": "I’d rather not..."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "determined",
+            "speakingRight": false,
+            "voiceline": "7",
+            "text": "I don’t care. I won’t let it end like this."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "neutraldown",
+            "speakingRight": false,
+            "voiceline": "8",
+            "text": "We aren’t done here."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico-picnic",
+            "expression": "annoyed",
+            "speakingRight": true,
+            "voiceline": "9",
+            "text": "What’s your fucking deal, man? He said he’s done."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "bored",
+            "speakingRight": false,
+            "voiceline": "10",
+            "text": "Shut up, nobody was talking to you."
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "11",
+            "text": "Hey-!"
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "12",
+            "text": "Anyway. C’mon. Let’s go again."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "grace-picnic",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "13",
+            "text": "C’mon Benji! I know you got that fighting spirit in you!"
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "smile",
+            "speakingRight": false,
+            "voiceline": "14",
+            "text": "You boys make great music, and seems like you’re having so much fun! What’s the harm in another?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "nervoussmile",
+            "speakingRight": true,
+            "voiceline": "15",
+            "text": "...we do sound pretty good with each other, I guess."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "20",
+            "text": "See? Grace is having a good time, so why stop?"
+        },
+        {
+            "events": [],
+            "portrait": "bf-picnic",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "16",
+            "text": "...okay."
+        },
+        {
+            "events": [],
+            "portrait": "grace-picnic",
+            "expression": "happy",
+            "speakingRight": false,
+            "voiceline": "17",
+            "text": "Knock em dead, baby!"
+        },
+        {
+            "events": [["Play Music", "nature", 0.8]],
+            "portrait": "sven",
+            "expression": "determined",
+            "speakingRight": false,
+            "voiceline": "18",
+            "text": "I won’t let you down this time, Grace."
+        },
+        {
+            "events": [],
+            "portrait": "sven",
+            "expression": "neutraldown",
+            "speakingRight": false,
+            "voiceline": "19",
+            "text": "I promise."
+        }
+    ]
+}

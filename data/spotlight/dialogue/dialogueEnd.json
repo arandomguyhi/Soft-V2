@@ -1,0 +1,165 @@
+{
+    "initialBG": "limo",
+    "dialogue": [
+        {
+            "events": [
+				["Slide In"],
+				["Play Music", "cars", 0.8]
+			],
+            "portrait": "mother",
+            "expression": "shout",
+            "speakingRight": false,
+            "voiceline": "1end",
+            "text": "URGH!"
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": "2end",
+            "text": "You selfish little brat!"
+        },
+        {
+            "events": [],
+            "portrait": "mother",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": "3end",
+            "text": "I’m gonna make you regret ever thinking you had a choice in all this!"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "pico",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": "4end",
+            "text": "Ben..."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "worried",
+            "speakingRight": true,
+            "voiceline": "5end",
+            "text": "Huh?!"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": "6end",
+            "text": "JUMP."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "terrified",
+            "speakingRight": true,
+            "voiceline": "7end",
+            "text": "Babe, I love you, but ARE YOU FUCKING INSANE?!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "scared",
+            "speakingRight": true,
+            "voiceline": "8end",
+            "text": "WE’RE ON A MOVING CAR!"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "9end",
+            "text": "You've gotta trust me."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "scared",
+            "speakingRight": true,
+            "voiceline": "10end",
+            "text": "I-"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": false,
+            "voiceline": "11end",
+            "text": "DO YOU TRUST ME?!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "12end",
+            "text": "...Yes?"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": "13end",
+            "text": "Then on the count of three, close your eyes and jump!"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "14end",
+            "text": "One..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "terrified",
+            "speakingRight": true,
+            "voiceline": "15end",
+            "text": "Wait a minute!"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "annoyed",
+            "speakingRight": false,
+            "voiceline": "16end",
+            "text": "Two..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "17end",
+            "text": "Isn't there like a plan B or something we should try!?"
+        },
+        {
+            "events": [["Fade Out Music"]],
+            "portrait": "pico",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": "18end",
+            "text": "THREE."
+        },
+        {
+            "events": [
+				["End Immediately", true],
+				["Hide Box"],
+				["Change BG", "black"],
+				["Play Video", "week4animation"]
+			],
+            "portrait": null,
+            "expression": null,
+            "speakingRight": false,
+            "voiceline": null,
+            "text": ""
+        }
+    ]
+}

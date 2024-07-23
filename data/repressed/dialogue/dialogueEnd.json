@@ -1,0 +1,149 @@
+{
+    "initialBG": "spooky-room",
+    "dialogue": [
+        {
+            "events": [
+                ["Slide In"],
+                ["Play Music", "spooky", 0.8]
+            ],
+            "portrait": "pico",
+            "expression": "shock",
+            "speakingRight": false,
+            "voiceline": "1end",
+            "text": "Softie! Can you hear me?"
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "2end",
+            "text": "Y-yeah.."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "3end",
+            "text": "What happened? You were out cold."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "4end",
+            "text": "It was him again..."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "worry",
+            "speakingRight": false,
+            "voiceline": "5end",
+            "text": "Oh... Are you okay?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "concerned",
+            "speakingRight": true,
+            "voiceline": "6end",
+            "text": "Yeah... it’s over. At least for now."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "what",
+            "speakingRight": true,
+            "voiceline": "7end",
+            "text": "Wait, where are the kids?"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "smug",
+            "speakingRight": false,
+            "voiceline": "8end",
+            "text": "I don’t know. They said something about candy and ran off."
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "neutral",
+            "speakingRight": false,
+            "voiceline": "9end",
+            "text": "Don’t worry though, they got a ride from someone driving a white van."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "scared",
+            "speakingRight": true,
+            "voiceline": "10end",
+            "text": "They WHAT?"
+        },
+        {
+            "events": [],
+            "portrait": "pico",
+            "expression": "questioning",
+            "speakingRight": false,
+            "voiceline": "11end",
+            "text": "Did I say something wrong?"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "slightsurprise",
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "..."
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "nervous",
+            "speakingRight": true,
+            "voiceline": "12end",
+            "text": "Let’s just get out of here. This place gives me the creeps..."
+        },
+        {
+            "events": [
+                ["Play Sound", "lowtiergod"],
+                ["Change BG", "lowtiergod"]
+            ],
+            "portrait": null,
+            "expression": null,
+            "speakingRight": true,
+            "voiceline": null,
+            "text": "(FLASH)"
+        },
+        {
+            "events": [
+				["Change BG", "spooky-room"]
+			],
+            "portrait": "bf",
+            "expression": "terrified",
+            "speakingRight": true,
+            "voiceline": "beep",
+            "text": "Beep!"
+        },
+        {
+            "events": [],
+            "portrait": "bf",
+            "expression": "sweating",
+            "speakingRight": true,
+            "voiceline": "13end",
+            "text": "O-on second thought, maybe we should stay here until morning."
+        },
+        {
+            "events": [["Slide In"]],
+            "portrait": "datdavi",
+            "expression": "davi",
+            "speakingRight": false,
+            "voiceline": "14end",
+            "text": "Director’s Note: No spooky boys were harmed during the creation of this chapter."
+        }
+    ]
+}
