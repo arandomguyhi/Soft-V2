@@ -125,7 +125,7 @@ function endDialogueEnd()
 	for i = 1,#dialogueEnd do startTween('portraittween'..i, portraitShitEnd[i][1], {alpha = 0.001}, 1, {}) end
 
 	stopSound('lyricEnd'..curDialogueEnd)
-	runTimer('start song', 1.05)
+	runTimer('end dialogue', 1.05)
 end
 
 function onSoundFinished(tag)
