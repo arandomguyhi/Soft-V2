@@ -40,10 +40,13 @@ function onCreate()
 	for i = 1, #imagesToLoad do precacheImage(rPath..imagesToLoad[i]) end
 	precacheSound('soft-results')
 
-	makeLuaSprite('rBack', rPath..'background', 0, 0)
+	createInstance('rBack', 'flixel.addons.display.FlxBackdrop', {nil, 0x01})
+    --callMethod('rBack.setPosition', {getProperty('dad.x'), getProperty('dad.y')+120})
+    loadGraphic('rBack', rPath..'background', false)
 	setObjectCamera('rBack', 'other')
-	screenCenter('rBack', 'XY')
-	addLuaSprite('rBack')
+    screenCenter('rBack', 'XY')
+    setProperty('rBack.velocity.x', getProperty('rBack.velocity.x')-20)
+    addInstance('rBack')
 
 	makeLuaSprite('topBar', rPath..'topBar', 0, -100)
 	setObjectCamera('topBar', 'other')
@@ -55,7 +58,7 @@ function onCreate()
 	setTextFont('songInfo', 'Motley Forces.ttf')
 	setTextSize('songInfo', 55)
 	setObjectCamera('songInfo', 'other')
-	setProperty('songInfo.x', screenWidth-(getProperty('songInfo.width'))-15)
+	setProperty('songInfo.x', screenWidth-(getProperty('songInfo.width'))-10)
 	addLuaText('songInfo')
 
 	makeLuaSprite('resultBar', rPath..'title', -500, 15)
@@ -130,6 +133,7 @@ function onEndSong()
 	if bleh then
 		bleh = false
 		openCustomSubstate('result_screen')
+		setProperty('inCutscene', true)
 		return Function_Stop
 	end
 	return Function_Continue
@@ -139,6 +143,7 @@ end
 function onCustomSubstateDestroy(name)
 	if name == 'result_screen' then
 		stopSound('softResult')
+		setProperty('inCutscene', false)
 	end
 end
 

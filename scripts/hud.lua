@@ -58,6 +58,14 @@ function onCreatePost()
     setObjectCamera('3', 'hud')
     addLuaSprite('3', true)
     setProperty('3.alpha', 0.001)
+
+    --cuz yes
+    makeLuaSprite('blackGraphic', nil)
+    makeGraphic('blackGraphic', screenWidth, screenHeight, '000000')
+    setScrollFactor('blackGraphic', 0, 0)
+    screenCenter('blackGraphic', 'XY')
+    addLuaSprite('blackGraphic', true)
+    setProperty('blackGraphic.alpha', 0.001)
 end
 
 --got the combo num from semeone i forgo the name :fire:

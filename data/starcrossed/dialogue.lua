@@ -159,6 +159,9 @@ function onTimerCompleted(t,l,ll)
 		startCountdown()
 		stopSound('diaSong2')
 		setVar('dialogue1end', true)
+
+		loadGraphic('diaBackground', imgPath..'backgrounds/alleyway', false)
+		screenCenter('diaBackground', 'XY')
 	end
 end
 
@@ -227,6 +230,9 @@ function endDialogue()
 	startTween('boxtween', 'diaBox', {alpha = 0.001}, 1, {})
 	startTween('texttween', 'diaTxt', {alpha = 0.001}, 1, {})
 	for i = 1,#dialogue do startTween('portraittween'..i, portraitShit[i][1], {alpha = 0.001}, 1, {}) end
+
+	cancelTween('backe') cancelTween('backout')
+	startTween('backout2', 'pressEsc', {alpha = 0.001}, 1, {})
 
 	stopSound('lyric'..curDialogue)
 	runTimer('start song', 1.05)

@@ -55,6 +55,7 @@ function onTimerCompleted(t,l,ll)
 	if t == 'start dia end' then
 		startDiaEnd()
 		playSound('dialogue/music/traffic', 0.8, 'diaSongEnd')
+		setProperty('blackGraphic.alpha', 1)
 	end
 
 	if t == 'add text end' then
@@ -123,6 +124,9 @@ function endDialogueEnd()
 	startTween('boxtween', 'diaBox', {alpha = 0.001}, 1, {})
 	startTween('texttween', 'diaTxt', {alpha = 0.001}, 1, {})
 	for i = 1,#dialogueEnd do startTween('portraittween'..i, portraitShitEnd[i][1], {alpha = 0.001}, 1, {}) end
+
+	cancelTween('backe') cancelTween('backout')
+	startTween('backout2', 'pressEsc', {alpha = 0.001}, 1, {})
 
 	stopSound('lyricEnd'..curDialogueEnd)
 	runTimer('end dialogue', 1.05)
